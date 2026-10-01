@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Category,Sub_Category,Product,Region,City,Quantity,Sales,Discount,Profit
+ORD-2022-00001,2022-01-01,CUST-1238,Melissa Jones,Technology,Phones,Wireless Earbuds Pro,Central,Dallas,6,727.26,0.0,178.3
+ORD-2022-00002,2022-01-01,CUST-1252,Carol Martin,Office Supplies,Labels,Shipping Labels 500ct,East,Philadelphia,3,24.64,0.0,11.47
+ORD-2022-00003,2022-01-02,CUST-1106,James White,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,New York,1,5.34,0.15,1.62
+ORD-2022-00004,2022-01-04,CUST-1133,Matthew Young,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Charlotte,8,59.3,0.15,18.65
+ORD-2022-00005,2022-01-08,CUST-1121,Elizabeth Davis,Furniture,Tables,Conference Table 6ft,Central,Minneapolis,1,433.35,0.0,34.53
+ORD-2022-00006,2022-01-08,CUST-1065,Elizabeth Johnson,Technology,Accessories,USB-C Hub 7-in-1,West,Seattle,9,332.02,0.0,105.39
+ORD-2022-00007,2022-01-10,CUST-1021,Michelle Garcia,Furniture,Furnishings,LED Desk Lamp,East,Washington,4,128.75,0.0,46.4
+ORD-2022-00008,2022-01-13,CUST-1115,Ashley Williams,Technology,Accessories,Wireless Mouse,Central,Dallas,1,16.48,0.3,1.6
+ORD-2022-00009,2022-01-19,CUST-1174,Paul Taylor,Furniture,Chairs,Mesh Task Chair,West,Portland,2,254.67,0.0,57.02
+ORD-2022-00010,2022-01-27,CUST-1011,Andrew Garcia,Furniture,Tables,Standing Desk Adjustable,West,Seattle,2,662.29,0.0,124.02
+ORD-2022-00011,2022-02-01,CUST-1102,Betty Hernandez,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Chicago,2,14.94,0.1,4.87
+ORD-2022-00012,2022-02-03,CUST-1108,Ashley Lewis,Furniture,Furnishings,LED Desk Lamp,West,San Francisco,4,82.17,0.4,5.67
+ORD-2022-00013,2022-02-06,CUST-1074,Steven Wilson,Office Supplies,Labels,Shipping Labels 500ct,East,Philadelphia,3,20.16,0.3,3.25
+ORD-2022-00014,2022-02-07,CUST-1041,Joseph Allen,Office Supplies,Paper,Premium Notebook Pack,Central,Houston,9,121.8,0.0,59.15
+ORD-2022-00015,2022-02-09,CUST-1124,Jessica Anderson,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,Seattle,1,166.59,0.0,27.45
+ORD-2022-00016,2022-02-11,CUST-1109,Melissa Taylor,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,8,1508.83,0.0,271.58
+ORD-2022-00017,2022-02-11,CUST-1072,Carol Miller,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Atlanta,3,12.56,0.5,0.19
+ORD-2022-00018,2022-02-15,CUST-1048,Paul Lee,Furniture,Furnishings,Wall Clock Classic,Central,Houston,1,18.87,0.15,4.72
+ORD-2022-00019,2022-02-15,CUST-1181,Thomas Jackson,Furniture,Furnishings,LED Desk Lamp,Central,Dallas,2,55.48,0.2,12.48
+ORD-2022-00020,2022-02-16,CUST-1012,Mary Moore,Furniture,Furnishings,LED Desk Lamp,Central,Chicago,1,34.37,0.0,13.66
+ORD-2022-00021,2022-02-22,CUST-1161,Mark Williams,Technology,Accessories,USB-C Hub 7-in-1,South,New Orleans,4,131.25,0.2,23.39
+ORD-2022-00022,2022-02-23,CUST-1048,Paul Lee,Office Supplies,Paper,Premium Notebook Pack,Central,Houston,1,9.74,0.3,1.8
+ORD-2022-00023,2022-02-25,CUST-1058,Daniel Lewis,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,1,181.71,0.0,39.79
+ORD-2022-00024,2022-03-02,CUST-1087,Jennifer Thomas,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Dallas,1,159.76,0.0,30.46
+ORD-2022-00025,2022-03-02,CUST-1131,Brian Brown,Technology,Accessories,USB-C Hub 7-in-1,West,San Diego,2,62.77,0.2,11.86
+ORD-2022-00026,2022-03-02,CUST-1197,Elizabeth Martinez,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Dallas,2,11.25,0.3,2.38
+ORD-2022-00027,2022-03-03,CUST-1029,Melissa Miller,Office Supplies,Labels,Shipping Labels 500ct,West,Portland,1,7.09,0.2,2.14
+ORD-2022-00028,2022-03-07,CUST-1071,Michael Hall,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,1,180.62,0.05,34.71
+ORD-2022-00029,2022-03-08,CUST-1226,Sarah King,Furniture,Furnishings,Wall Clock Classic,Central,Denver,6,127.49,0.05,39.37
+ORD-2022-00030,2022-03-10,CUST-1130,David Jackson,Furniture,Tables,Standing Desk Adjustable,South,Orlando,2,679.09,0.0,97.07
+ORD-2022-00031,2022-03-10,CUST-1202,James Anderson,Technology,Copiers,Laser Copier Pro,Central,Denver,50,9983.71,0.0,2373.8
+ORD-2022-00032,2022-03-10,CUST-1037,Amanda Jones,Technology,Accessories,USB-C Hub 7-in-1,Central,Houston,4,151.59,0.0,55.8
+ORD-2022-00033,2022-03-13,CUST-1134,George Garcia,Furniture,Chairs,Ergonomic Office Chair,West,Portland,3,548.7,0.0,124.41
+ORD-2022-00034,2022-03-16,CUST-1155,Patricia Anderson,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Houston,2,308.99,0.0,61.5
+ORD-2022-00035,2022-03-17,CUST-1237,George Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Miami,1,5.82,0.3,0.85
+ORD-2022-00036,2022-03-19,CUST-1106,James White,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,New York,6,51.74,0.0,22.52
+ORD-2022-00037,2022-03-23,CUST-1174,Paul Taylor,Furniture,Chairs,Ergonomic Office Chair,West,Portland,3,549.95,0.0,92.27
+ORD-2022-00038,2022-03-24,CUST-1084,Betty Wilson,Furniture,Chairs,Mesh Task Chair,Central,Chicago,3,376.19,0.0,63.96
+ORD-2022-00039,2022-03-25,CUST-1102,Betty Hernandez,Furniture,Tables,Standing Desk Adjustable,Central,Chicago,1,320.97,0.0,39.74
+ORD-2022-00040,2022-03-25,CUST-1155,Patricia Anderson,Furniture,Furnishings,LED Desk Lamp,South,Atlanta,6,166.19,0.2,32.74
+ORD-2022-00041,2022-03-26,CUST-1256,Carol Walker,Office Supplies,Storage,Stackable File Box,East,New York,1,17.11,0.1,3.68
+ORD-2022-00042,2022-03-26,CUST-1225,Michelle Taylor,Office Supplies,Art,Marker Set 24 Colors,East,New York,3,28.11,0.2,5.82
+ORD-2022-00043,2022-03-27,CUST-1148,Karen Harris,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,5,862.88,0.1,88.59
+ORD-2022-00044,2022-03-28,CUST-1048,Paul Lee,Office Supplies,Storage,Stackable File Box,Central,Houston,6,88.73,0.2,10.72
+ORD-2022-00045,2022-03-29,CUST-1179,William Lee,Technology,Copiers,Laser Copier Pro,West,Seattle,1,856.33,0.0,152.14
+ORD-2022-00046,2022-04-01,CUST-1246,John Allen,Office Supplies,Art,Marker Set 24 Colors,Central,Minneapolis,2,23.51,0.05,7.8
+ORD-2022-00047,2022-04-01,CUST-1111,Carol Davis,Office Supplies,Paper,Premium Notebook Pack,East,Washington,6,41.01,0.5,1.2
+ORD-2022-00048,2022-04-02,CUST-1075,Emily Harris,Furniture,Furnishings,LED Desk Lamp,East,New York,4,127.43,0.05,44.6
+ORD-2022-00049,2022-04-06,CUST-1103,Richard Martinez,Furniture,Chairs,Ergonomic Office Chair,East,Charlotte,40,817.92,0.5,-121.41
+ORD-2022-00050,2022-04-08,CUST-1153,Carol Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Boston,5,43.08,0.0,18.56
+ORD-2022-00051,2022-04-08,CUST-1097,Andrew Martin,Technology,Accessories,Wireless Mouse,West,Los Angeles,1,24.82,0.0,9.83
+ORD-2022-00052,2022-04-09,CUST-1021,Michelle Garcia,Office Supplies,Art,Marker Set 24 Colors,West,San Diego,1,11.82,0.0,4.53
+ORD-2022-00053,2022-04-12,CUST-1145,Emily Hall,Furniture,Tables,Conference Table 6ft,Central,Minneapolis,1,443.07,0.05,28.95
+ORD-2022-00054,2022-04-13,CUST-1123,Jessica Lopez,Furniture,Chairs,Ergonomic Office Chair,South,Miami,3,573.89,0.0,164.72
+ORD-2022-00055,2022-04-14,CUST-1121,Elizabeth Davis,Office Supplies,Paper,Premium Notebook Pack,East,Boston,2,26.0,0.0,12.1
+ORD-2022-00056,2022-04-16,CUST-1038,Karen Jones,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,5,32.75,0.0,13.07
+ORD-2024-00624,2024-01-08,CUST-1228,Linda Davis,Technology,Monitors,27-inch 4K Monitor,South,Miami,2,743.39,0.0,115.88
+ORD-2022-00058,2022-04-19,CUST-1158,Donna Moore,Furniture,Chairs,Ergonomic Office Chair,West,Portland,1,193.25,0.0,46.29
+ORD-2022-00059,2022-04-20,CUST-1192,Steven Martin,Technology,Phones,Smartphone X200,West,Portland,1,620.73,0.0,140.99
+ORD-2022-00060,2022-04-23,CUST-1106,James White,Technology,Monitors,27-inch 4K Monitor,East,New York,1,374.59,0.0,50.01
+ORD-2022-00061,2022-04-23,CUST-1038,Karen Jones,Technology,Accessories,USB-C Hub 7-in-1,West,San Francisco,4,154.34,0.0,41.18
+ORD-2022-00062,2022-04-26,CUST-1168,Joshua King,Office Supplies,Storage,Stackable File Box,Central,Denver,5,77.04,0.15,12.09
+ORD-2022-00063,2022-04-26,CUST-1248,Emily Lopez,Office Supplies,Storage,Stackable File Box,East,Charlotte,3,54.08,0.05,10.74
+ORD-2022-00064,2022-04-26,CUST-1141,Elizabeth Jackson,Furniture,Chairs,Mesh Task Chair,South,New Orleans,3,384.87,0.0,69.54
+ORD-2022-00065,2022-04-30,CUST-1174,Paul Taylor,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Portland,3,15.19,0.2,2.74
+ORD-2022-00066,2022-04-30,CUST-1226,Sarah King,Office Supplies,Paper,Premium Notebook Pack,Central,Denver,1,11.96,0.1,3.85
+ORD-2022-00067,2022-05-05,CUST-1157,James Martinez,Technology,Accessories,Wireless Mouse, south ,Orlando,2,42.42,0.05,11.1
+ORD-2022-00068,2022-05-05,CUST-1016,Nancy Martinez,Furniture,Furnishings,LED Desk Lamp,Central,Dallas,1,33.41,0.0,12.68
+ORD-2022-00069,2022-05-09,CUST-1034,Joshua Martinez,Furniture,Tables,Conference Table 6ft,East,New York,1,348.88,0.2,-34.71
+ORD-2022-00070,2022-05-10,CUST-1237,George Lee,Furniture,Chairs,Ergonomic Office Chair,West,San Diego,3,580.94,0.0,173.18
+ORD-2022-00071,2022-05-17,CUST-1174,Paul Taylor,Furniture,Chairs,Ergonomic Office Chair,West,Portland,1,192.07,0.0,37.49
+ORD-2022-00072,2022-05-18,CUST-1121,Elizabeth Davis,Office Supplies,Binders,Binder Dividers Set,East,Boston,1,4.04,0.0,1.62
+ORD-2022-00073,2022-05-21,CUST-1053,Susan Allen,Furniture,Chairs,Mesh Task Chair,West,Seattle,1,134.12,0.0,29.49
+ORD-2022-00074,2022-05-22,CUST-1043,William White,Technology,Accessories,Mechanical Keyboard,Central,Chicago,5,333.83,0.1,73.89
+ORD-2022-00075,2022-05-22,CUST-1004,Donna Taylor,Office Supplies,Storage,Stackable File Box,South,Nashville,4,75.77,0.0,22.47
+ORD-2022-00076,2022-05-23,CUST-1091,Emily Wilson,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Miami,3,26.12,0.0,10.42
+ORD-2022-00077,2022-05-25,CUST-1077,Robert Lewis,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Washington,2,267.37,0.1,15.66
+ORD-2022-00078,2022-05-26,CUST-1066,Joseph Martinez,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,1,174.79,0.1,31.58
+ORD-2022-00079,2022-05-28,CUST-1160,Melissa Smith,Office Supplies,Paper,Premium Notebook Pack,Central,Minneapolis,1,14.09,0.0,6.68
+ORD-2022-00080,2022-05-28,CUST-1192,Steven Martin,Office Supplies,Paper,Premium Notebook Pack,Central,Dallas,3,37.56,0.1,15.72
+ORD-2022-00081,2022-05-29,CUST-1238,Melissa Jones,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,5,964.35,0.0,210.13
+ORD-2022-00082,2022-05-30,CUST-1045,Jennifer Anderson,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Washington,2,255.51,0.2,-3.9
+ORD-2022-00083,2022-05-30,CUST-1077,,Furniture,Chairs,Ergonomic Office Chair,West,Los Angeles,2,230.07,0.4,-24.79
+ORD-2022-00084,2022-05-31,CUST-1193,Jessica Moore,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,1,7.25,0.1,2.54
+ORD-2022-00085,2022-06-01,CUST-1226,Sarah King,Furniture,Furnishings,LED Desk Lamp,Central,Denver,2,53.78,0.2,7.91
+ORD-2022-00086,2022-06-02,CUST-1214,Daniel Allen,Technology,Accessories,Wireless Mouse,East,Philadelphia,7,173.71,0.0,57.63
+ORD-2022-00087,2022-06-04,CUST-1149,Linda Moore,Furniture,Furnishings,Wall Clock Classic,South,Atlanta,2,44.84,0.0,17.68
+ORD-2022-00088,2022-06-05,CUST-1137,Robert Williams,Office Supplies,Binders,Binder Dividers Set,West,Los Angeles,2,8.75,0.0,3.59
+ORD-2022-00089,2022-06-07,CUST-1194,Sandra Taylor,Office Supplies,Storage,Steel Filing Cabinet,West,San Francisco,5,696.72,0.0,133.98
+ORD-2022-00090,2022-06-10,CUST-1218,Elizabeth Walker,Office Supplies,Binders,Binder Dividers Set,South,Miami,5,16.39,0.2,5.03
+ORD-2022-00091,2022-06-10,CUST-1151,Steven King,Furniture,Furnishings,Wall Clock Classic,Central,Denver,1,17.55,0.2,3.27
+ORD-2022-00092,2022-06-16,CUST-1207,Andrew Lopez,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Washington,3,24.82,0.05,8.92
+ORD-2022-00093,2022-06-16,CUST-1122,Nancy Jones,Furniture,Furnishings,Wall Clock Classic,East,Boston,2,40.83,0.05,14.59
+ORD-2022-00094,2022-06-18,CUST-1221,Carol Hernandez,Technology,Phones,Wireless Earbuds Pro,South,Atlanta,3,371.49,0.0,120.36
+ORD-2022-00095,2022-06-21,CUST-1063,Elizabeth Lee,Office Supplies,Storage,Stackable File Box,Central,Denver,7,133.02,0.0,44.46
+ORD-2022-00096,2022-06-22,CUST-1212,Jennifer Taylor,Furniture,Chairs,Mesh Task Chair,West,Seattle,2,177.43,0.3,-6.63
+ORD-2022-00097,2022-06-27,CUST-1209,Daniel Jones,Furniture,Furnishings,LED Desk Lamp,East,Boston,2,49.94,0.3,5.47
+ORD-2022-00098,2022-06-28,CUST-1060,James Hernandez,Technology,Copiers,Laser Copier Pro,South,New Orleans,1,898.44,0.0,163.9
+ORD-2022-00099,2022-06-30,CUST-1148,Karen Harris,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,5,925.15,0.0,193.89
+ORD-2022-00100,2022-07-01,CUST-1039,Ashley Martin,Technology,Phones,Smartphone X200,West,Portland,1,611.42,0.0,136.39
+ORD-2022-00101,2022-07-02,CUST-1121,Elizabeth Davis,Furniture,Tables,Standing Desk Adjustable,East,Boston,2,560.69,0.1,38.47
+ORD-2022-00102,2022-07-03,CUST-1097,Andrew Martin,Office Supplies,Labels,Shipping Labels 500ct,West,Los Angeles,1,8.53,0.0,3.6
+ORD-2022-00103,2022-07-03,CUST-1183,Daniel Taylor,Furniture,Tables,Conference Table 6ft,West,Portland,1,374.28,0.2,-15.48
+ORD-2022-00104,2022-07-04,CUST-1174,Paul Taylor,Office Supplies,Paper,Premium Notebook Pack,Central,Minneapolis,2,29.0,0.0,13.23
+ORD-2022-00105,2022-07-07,CUST-1217,Paul Thomas,Office Supplies,Storage,Stackable File Box,West,Los Angeles,4,54.33,0.3,2.32
+ORD-2022-00106,2022-07-13,CUST-1135,Karen Clark,Office Supplies,Binders,Binder Dividers Set,Central,Denver,1,4.06,0.0,1.81
+ORD-2022-00107,2022-07-13,CUST-1049,Jennifer Jackson,Furniture,Furnishings,LED Desk Lamp,Central,Minneapolis,3,89.31,0.1,25.89
+ORD-2022-00108,2022-07-15,CUST-1188,Betty Martin,Furniture,Chairs,Ergonomic Office Chair,South,New Orleans,3,504.13,0.1,53.77
+ORD-2022-00109,2022-07-15,CUST-1260,Anthony Garcia,Office Supplies,Labels,Shipping Labels 500ct,Central,Denver,1,7.9,0.1,2.3
+ORD-2022-00110,2022-07-15,CUST-1048,Paul Lee,Office Supplies,Art,Marker Set 24 Colors,Central,Houston,1,8.13,0.3,1.36
+ORD-2022-00111,2022-07-16,CUST-1148,Karen Harris,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,3,548.97,0.05,102.9
+ORD-2022-00112,2022-07-17,CUST-1248,Emily Lopez,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,2,370.13,0.0,61.2
+ORD-2022-00113,2022-07-18,CUST-1117,Betty Clark,Furniture,Tables,Conference Table 6ft,Central,Minneapolis,2,804.23,0.1,1.75
+ORD-2022-00114,2022-07-18,CUST-1203,Thomas Lopez,Furniture,Chairs,Ergonomic Office Chair,East,Philadelphia,2,370.5,0.0,87.08
+ORD-2022-00115,2022-07-21,CUST-1020,Susan Davis,Furniture,Tables,Conference Table 6ft,East,Washington,1,420.8,0.05,42.87
+ORD-2022-00116,2022-07-21,CUST-1174,Paul Taylor,Technology,Accessories,USB-C Hub 7-in-1,West,Portland,4,150.69,0.05,43.67
+ORD-2022-00117,2022-07-22,CUST-1033,Melissa Lee,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,Seattle,1,154.32,0.0,20.73
+ORD-2022-00118,2022-07-23,CUST-1120,Daniel Clark,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Dallas,1,6.38,0.0,2.48
+ORD-2022-00119,2022-07-26,CUST-1138,Michael Brown,Furniture,Furnishings,Wall Clock Classic,West,Seattle,1,22.51,0.0,8.39
+ORD-2022-00120,2022-07-27,CUST-1008,Robert Walker,Furniture,Tables,Conference Table 6ft,Central,Dallas,1,237.46,0.5,-89.03
+ORD-2022-00121,2022-07-27,CUST-1027,Anthony Moore,Technology,Monitors,27-inch 4K Monitor,West,San Francisco,1,385.3,0.0,64.31
+ORD-2022-00122,2022-07-30,CUST-1174,Paul Taylor,Furniture,Furnishings,LED Desk Lamp,South,Nashville,6,177.84,0.1,49.43
+ORD-2022-00123,2022-07-31,CUST-1174,Paul Taylor,Office Supplies,Paper,Premium Notebook Pack,West,Portland,1,14.57,0.0,6.67
+ORD-2022-00124,2022-08-01,CUST-1001,Patricia Clark,Technology,Monitors,27-inch 4K Monitor,West,Seattle,1,347.58,0.1,17.9
+ORD-2022-00125,2022-08-01,CUST-1177,Thomas Garcia,Furniture,Furnishings,LED Desk Lamp,East,Washington,1,30.66,0.1,9.57
+ORD-2022-00126,2022-08-03,CUST-1026,Anthony Williams,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Minneapolis,1,76.35,0.5,-21.46
+ORD-2022-00127,2022-08-03,CUST-1073,Daniel Martinez,Furniture,Chairs,Mesh Task Chair,Central,Dallas,2,213.46,0.2,6.39
+ORD-2023-00354,2023-04-19,CUST-1105,Betty Jones,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Boston,6,35.71,0.0,13.21
+ORD-2022-00129,2022-08-09,CUST-1031,Kevin Rodriguez,Technology,Copiers,Laser Copier Pro,East,Boston,1,883.88,0.0,139.48
+ORD-2022-00130,2022-08-13,CUST-1174,,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,7,54.49,0.05,21.46
+ORD-2022-00131,2022-08-14,CUST-1181,Thomas Jackson,Office Supplies,Storage,Steel Filing Cabinet,East,Washington,1,145.57,0.0,29.83
+ORD-2022-00132,2022-08-17,CUST-1145,Emily Hall,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,3,444.4,0.2,34.2
+ORD-2022-00133,2022-08-21,CUST-1150,Donna Martin,Office Supplies,Paper,Premium Notebook Pack, west ,Seattle,3,43.1,0.0,20.92
+ORD-2022-00134,2022-08-21,CUST-1059,Lisa Taylor,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,1,5.08,0.2,1.42
+ORD-2022-00135,2022-08-22,CUST-1192,Steven Martin,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,6,950.75,0.2,59.59
+ORD-2022-00136,2022-08-22,CUST-1028,Richard Martin,Technology,Accessories,USB-C Hub 7-in-1, west ,Los Angeles,1,36.06,0.0,9.96
+ORD-2022-00137,2022-08-22,CUST-1082,Jennifer Smith,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Washington,1,5.0,0.2,1.15
+ORD-2022-00138,2022-08-23,CUST-1063,Elizabeth Lee,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,9,1533.96,0.15,140.4
+ORD-2022-00139,2022-08-23,CUST-1170,Mary Anderson,Furniture,Chairs,Mesh Task Chair,East,Philadelphia,6,625.11,0.2,4.05
+ORD-2022-00140,2022-08-24,CUST-1061,,Technology,Accessories,Mechanical Keyboard,Central,Houston,3,182.08,0.2,21.23
+ORD-2022-00141,2022-08-25,CUST-1049,Jennifer Jackson,Furniture,Chairs,Mesh Task Chair,Central,Minneapolis,3,385.6,0.05,60.05
+ORD-2022-00142,2022-08-25,CUST-1105,Betty Jones,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Boston,4,31.98,0.05,13.27
+ORD-2022-00143,2022-08-28,CUST-1183,Daniel Taylor,Technology,Phones,Wireless Earbuds Pro,East,Charlotte,2,221.01,0.1,41.3
+ORD-2022-00144,2022-09-01,CUST-1174,Paul Taylor,Furniture,Chairs,Ergonomic Office Chair, west ,Portland,4,743.15,0.0,149.43
+ORD-2022-00145,2022-09-02,CUST-1236,Emily Lewis,Office Supplies,Paper,Premium Notebook Pack,East,Charlotte,5,43.89,0.4,5.36
+ORD-2022-00146,2022-09-03,CUST-1064,Andrew Martinez,Furniture,Furnishings,LED Desk Lamp,South,Miami,7,232.0,0.0,90.06
+ORD-2022-00147,2022-09-04,CUST-1174,Paul Taylor,Office Supplies,Binders,Binder Dividers Set,West,Portland,3,12.78,0.0,5.68
+ORD-2022-00148,2022-09-05,CUST-1174,Paul Taylor,Office Supplies,Storage,Steel Filing Cabinet,West,Portland,3,410.84,0.0,64.1
+ORD-2022-00149,2022-09-08,CUST-1044,William Williams,Furniture,Tables,Standing Desk Adjustable,South,Miami,1,319.78,0.0,36.1
+ORD-2022-00150,2022-09-09,CUST-1244,Brian Anderson,Office Supplies,Storage,Stackable File Box,East,Charlotte,6,112.92,0.0,37.87
+ORD-2022-00151,2022-09-10,CUST-1217,Paul Thomas,Office Supplies,Labels,Shipping Labels 500ct,East,Philadelphia,4,36.28,0.0,16.07
+ORD-2022-00152,2022-09-10,CUST-1215,Elizabeth Allen,Furniture,Chairs,Ergonomic Office Chair,East,Washington,4,667.04,0.15,44.55
+ORD-2022-00153,2022-09-11,CUST-1159,Mary Hall,Furniture,Chairs,Ergonomic Office Chair,East,Washington,1,182.71,0.0,41.45
+ORD-2022-00154,2022-09-11,CUST-1081,Amanda Smith,Technology,Accessories,Mechanical Keyboard,East,New York,1,69.64,0.15,10.62
+ORD-2022-00155,2022-09-12,CUST-1048,Paul Lee,Furniture,Chairs,Ergonomic Office Chair,Central,Houston,3,277.92,0.5,-40.19
+ORD-2022-00156,2022-09-12,CUST-1013,Brian Harris,Office Supplies,Storage,Stackable File Box,South,Orlando,1,18.46,0.05,4.83
+ORD-2022-00157,2022-09-13,CUST-1048,Paul Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Houston,1,7.39,0.15,2.23
+ORD-2022-00158,2022-09-15,CUST-1009,Michael Harris,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,4,466.98,0.1,63.34
+ORD-2022-00159,2022-09-18,CUST-1043,William White,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,6,802.6,0.3,-12.0
+ORD-2022-00160,2022-09-18,CUST-1020,Susan Davis,Furniture,Chairs,Ergonomic Office Chair,East,Washington,1,195.04,0.0,46.05
+ORD-2022-00161,2022-09-19,CUST-1041,Joseph Allen,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Houston,2,13.1,0.0,5.08
+ORD-2022-00162,2022-09-19,CUST-1194,Sandra Taylor,Technology,Phones,Wireless Earbuds Pro,West,San Francisco,1,92.6,0.2,11.35
+ORD-2022-00163,2022-09-20,CUST-1125,Elizabeth Rodriguez,Office Supplies,Binders,Binder Dividers Set,South,Orlando,1,3.82,0.05,1.44
+ORD-2022-00164,2022-09-20,CUST-1074,Steven Wilson,Technology,Accessories,USB-C Hub 7-in-1,East,Philadelphia,2,53.17,0.3,3.53
+ORD-2022-00165,2022-09-20,CUST-1037,Amanda Jones,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Houston,2,254.7,0.2,3.39
+ORD-2022-00166,2022-09-20,CUST-1069,Melissa Young,Office Supplies,Paper,Premium Notebook Pack,East,Boston,1,10.7,0.2,2.77
+ORD-2022-00167,2022-09-20,CUST-1014,Jessica Allen,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,4,25.72,0.0,9.24
+ORD-2022-00168,2022-09-21,CUST-1196,Matthew Harris,Furniture,Chairs,Mesh Task Chair,East,Philadelphia,7,807.67,0.1,117.71
+ORD-2022-00169,2022-09-22,CUST-1212,Jennifer Taylor,Office Supplies,Storage,Stackable File Box,West,Seattle,3,57.73,0.0,16.73
+ORD-2022-00170,2022-09-25,CUST-1029,Melissa Miller,Furniture,Tables,Standing Desk Adjustable, west ,Portland,2,605.87,0.05,77.56
+ORD-2022-00171,2022-09-27,CUST-1182,Sandra Anderson,Furniture,Furnishings,LED Desk Lamp,East,Charlotte,2,67.37,0.05,22.91
+ORD-2022-00172,2022-09-30,CUST-1008,Robert Walker,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,1,4.08,0.5,0.06
+ORD-2022-00173,2022-10-03,CUST-1008,Robert Walker,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,1,111.75,0.4,-11.58
+ORD-2022-00174,2022-10-03,CUST-1020,Susan Davis,Furniture,Tables,Standing Desk Adjustable,East,Washington,1,331.55,0.0,51.24
+ORD-2022-00175,2022-10-03,CUST-1205,Patricia King,Office Supplies,Storage,Steel Filing Cabinet,Central,Houston,5,718.96,0.0,106.88
+ORD-2022-00176,2022-10-04,CUST-1071,Michael Hall,Technology,Accessories,USB-C Hub 7-in-1,Central,Denver,1,37.97,0.0,12.53
+ORD-2022-00177,2022-10-04,CUST-1077,Robert Lewis,Technology,Accessories,Wireless Mouse,East,Washington,2,38.86,0.2,4.18
+ORD-2022-00178,2022-10-05,CUST-1204,Mark Thompson,Office Supplies,Storage,Stackable File Box,West,Los Angeles,4,75.14,0.0,18.22
+ORD-2022-00179,2022-10-05,CUST-1087,Jennifer Thomas,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,2,358.0,0.1,56.58
+ORD-2022-00180,2022-10-05,CUST-1093,Karen Thomas,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Denver,3,471.19,0.0,60.85
+ORD-2022-00181,2022-10-09,CUST-1039,Ashley Martin,Office Supplies,Binders,Binder Dividers Set,West,Portland,6,25.67,0.0,11.63
+ORD-2022-00182,2022-10-09,CUST-1002,Kevin Williams,Furniture,Furnishings,Wall Clock Classic,Central,Houston,7,168.27,0.0,61.5
+ORD-2022-00183,2022-10-10,CUST-1048,Paul Lee,Office Supplies,Paper,Premium Notebook Pack,Central,Houston,3,25.69,0.4,2.69
+ORD-2022-00184,2022-10-10,CUST-1253,Thomas Walker,Office Supplies,Storage,Stackable File Box, west ,San Diego,4,54.44,0.3,-0.17
+ORD-2022-00185,2022-10-13,CUST-1174,Paul Taylor,Office Supplies,Storage,Stackable File Box,West,Portland,5,87.0,0.1,18.87
+ORD-2022-00186,2022-10-13,CUST-1062,John Lee,Office Supplies,Paper,Premium Notebook Pack,East,Washington,1,12.62,0.1,4.5
+ORD-2022-00187,2022-10-13,CUST-1078,Linda Lopez,Furniture,Chairs,Ergonomic Office Chair,South,Nashville,3,464.0,0.2,46.69
+ORD-2022-00188,2022-10-13,CUST-1174,Paul Taylor,Furniture,Furnishings,LED Desk Lamp,West,Portland,1,29.76,0.1,8.84
+ORD-2022-00189,2022-10-16,CUST-1213,Jessica Williams,Technology,Accessories,USB-C Hub 7-in-1,Central,Chicago,3,91.85,0.2,14.17
+ORD-2022-00190,2022-10-16,CUST-1001,Patricia Clark,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,Seattle,1,161.32,0.0,19.61
+ORD-2022-00191,2022-10-17,CUST-1090,Sandra Walker,Technology,Accessories,Wireless Mouse,East,New York,4,91.58,0.0,28.91
+ORD-2022-00192,2022-10-20,CUST-1011,Andrew Garcia,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,7,932.38,0.3,-23.55
+ORD-2022-00193,2022-10-21,CUST-1204,Mark Thompson,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Los Angeles,2,13.4,0.2,2.73
+ORD-2022-00194,2022-10-21,CUST-1251,Lisa Smith,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,San Diego,2,291.36,0.1,13.95
+ORD-2022-00195,2022-10-22,CUST-1215,Elizabeth Allen,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Charlotte,3,24.99,0.05,8.3
+ORD-2022-00196,2022-10-23,CUST-1191,Betty White,Office Supplies,Storage,Stackable File Box,Central,Houston,4,75.91,0.0,17.77
+ORD-2022-00197,2022-10-24,CUST-1038,Karen Jones,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,4,20.87,0.2,5.39
+ORD-2022-00198,2022-10-26,CUST-1001,Patricia Clark,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Seattle,4,25.38,0.1,8.28
+ORD-2022-00199,2022-10-27,CUST-1072,Carol Miller,Office Supplies,Storage,Stackable File Box,Central,Minneapolis,9,84.63,0.5,-10.31
+ORD-2022-00200,2022-10-28,CUST-1143,Nancy Lee,Furniture,Chairs,Mesh Task Chair,West,Portland,3,328.01,0.2,10.3
+ORD-2022-00201,2022-10-29,CUST-1111,Carol Davis,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Washington,1,7.0,0.2,1.64
+ORD-2022-00202,2022-10-29,CUST-1045,Jennifer Anderson,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Washington,4,33.14,0.0,14.15
+ORD-2022-00203,2022-10-30,CUST-1226,Sarah King,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Denver,6,916.36,0.0,108.65
+ORD-2022-00204,2022-11-02,CUST-1037,Amanda Jones,Technology,Monitors,27-inch 4K Monitor,West,Seattle,1,371.88,0.05,49.84
+ORD-2022-00205,2022-11-02,CUST-1238,Melissa Jones,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Dallas,2,14.46,0.15,4.01
+ORD-2022-00206,2022-11-03,CUST-1209,Daniel Jones,Technology,Copiers,Laser Copier Pro,East,New York,1,714.08,0.2,-4.55
+ORD-2022-00207,2022-11-03,CUST-1084,Betty Wilson,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Chicago,5,43.78,0.0,19.8
+ORD-2022-00208,2022-11-04,CUST-1103,Richard Martinez,Technology,Phones,Smartphone X200,East,Charlotte,3,1885.85,0.0,329.2
+ORD-2022-00209,2022-11-04,CUST-1206,Richard Clark,Furniture,Tables,Standing Desk Adjustable,Central,Minneapolis,1,339.62,0.0,51.18
+ORD-2022-00210,2022-11-05,CUST-1038,Karen Jones,Furniture,Tables,Standing Desk Adjustable,West,San Francisco,1,325.92,0.0,30.13
+ORD-2023-00606,2023-12-23,CUST-1254,Kevin Allen,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,2,12.26,0.05,4.27
+ORD-2022-00212,2022-11-05,CUST-1044,William Williams,Furniture,Furnishings,LED Desk Lamp,South,Miami,8,242.34,0.1,77.77
+ORD-2022-00213,2022-11-06,CUST-1174,Paul Taylor,Technology,Accessories,Wireless Mouse,West,Portland,6,121.42,0.15,25.87
+ORD-2022-00214,2022-11-06,CUST-1159,Mary Hall,Technology,Accessories,USB-C Hub 7-in-1,East,Washington,3,120.63,0.0,34.85
+ORD-2022-00215,2022-11-07,CUST-1139,Nancy Anderson,Technology,Phones,Wireless Earbuds Pro,West,San Diego,1,92.84,0.2,12.21
+ORD-2022-00216,2022-11-07,CUST-1102,Betty Hernandez,Furniture,Furnishings,LED Desk Lamp,Central,Chicago,5,163.93,0.0,64.71
+ORD-2022-00217,2022-11-09,CUST-1083,Susan Taylor,Furniture,Chairs,Mesh Task Chair,Central,Minneapolis,1,128.83,0.0,23.41
+ORD-2022-00218,2022-11-09,CUST-1226,Sarah King,Technology,Accessories,Mechanical Keyboard,Central,Denver,1,83.87,0.0,25.36
+ORD-2022-00219,2022-11-09,CUST-1153,Carol Lee,Furniture,Furnishings,LED Desk Lamp,East,Boston,3,99.55,0.0,36.2
+ORD-2022-00220,2022-11-10,CUST-1153,Carol Lee,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Boston,1,133.42,0.15,2.05
+ORD-2022-00221,2022-11-10,CUST-1048,Paul Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Houston,2,10.65,0.4,0.87
+ORD-2022-00222,2022-11-12,CUST-1028,Richard Martin,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Los Angeles,4,24.13,0.05,8.21
+ORD-2022-00223,2022-11-13,CUST-1110,Kevin Moore,Furniture,Chairs,Ergonomic Office Chair,East,Philadelphia,3,471.81,0.15,48.57
+ORD-2022-00224,2022-11-13,CUST-1112,Anthony Young,Office Supplies,Storage,Stackable File Box,East,Boston,5,80.61,0.2,10.59
+ORD-2022-00225,2022-11-14,CUST-1215,Elizabeth Allen,Technology,Accessories,Wireless Mouse,East,Washington,5,94.12,0.2,17.52
+ORD-2022-00226,2022-11-14,CUST-1111,Carol Davis,Technology,Accessories,Wireless Mouse,East,Washington,4,73.22,0.2,17.57
+ORD-2022-00227,2022-11-14,CUST-1242,Melissa Davis,Office Supplies,Labels,Shipping Labels 500ct,West,Seattle,3,28.11,0.0,12.13
+ORD-2022-00228,2022-11-15,CUST-1113,James Lopez,Technology,Phones,Smartphone X200,West,Portland,1,601.75,0.05,66.37
+ORD-2022-00229,2022-11-17,CUST-1226,Sarah King,Furniture,Tables,Conference Table 6ft,Central,Denver,1,406.31,0.05,23.48
+ORD-2022-00230,2022-11-17,CUST-1066,Joseph Martinez,Furniture,Furnishings,LED Desk Lamp,Central,Denver,6,192.17,0.0,65.18
+ORD-2022-00231,2022-11-17,CUST-1061,Lisa Jones,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,4,704.56,0.05,136.93
+ORD-2022-00232,2022-11-18,CUST-1249,John Martin,Technology,Accessories,USB-C Hub 7-in-1,South,Nashville,5,168.29,0.2,35.43
+ORD-2022-00233,2022-11-19,CUST-1194,Sandra Taylor,Furniture,Chairs,Ergonomic Office Chair,Central,Chicago,5,555.11,0.4,-69.37
+ORD-2022-00234,2022-11-19,CUST-1038,Karen Jones,Technology,Accessories,USB-C Hub 7-in-1,West,San Francisco,4,158.44,0.0,52.77
+ORD-2022-00235,2022-11-23,CUST-1150,Donna Martin,Furniture,Chairs,Mesh Task Chair,West,Seattle,3,315.81,0.2,8.08
+ORD-2022-00236,2022-11-24,CUST-1081,Amanda Smith,Furniture,Chairs,Mesh Task Chair,East,Philadelphia,1,130.09,0.0,26.2
+ORD-2022-00237,2022-11-24,CUST-1204,Mark Thompson,Technology,Accessories,USB-C Hub 7-in-1,West,Los Angeles,1,35.34,0.1,9.68
+ORD-2022-00238,2022-11-25,CUST-1072,Carol Miller,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,5,34.07,0.2,8.06
+ORD-2022-00239,2022-11-26,CUST-1183,Daniel Taylor,Furniture,Chairs,Ergonomic Office Chair,West,Portland,1,184.7,0.0,31.17
+ORD-2022-00240,2022-11-28,CUST-1106,James White,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,New York,2,12.83,,4.48
+ORD-2022-00241,2022-11-28,CUST-1073,Daniel Martinez,Technology,Phones,Smartphone X200,Central,Dallas,2,1073.52,0.1,61.02
+ORD-2022-00242,2022-11-29,CUST-1073,Daniel Martinez,Furniture,Tables,Conference Table 6ft,Central,Dallas,1,464.76,0.0,59.37
+ORD-2022-00243,2022-12-01,CUST-1112,Anthony Young,Technology,Phones,Wireless Earbuds Pro,East,Boston,1,114.48,0.05,29.06
+ORD-2022-00244,2022-12-02,CUST-1085,Mary White,Technology,Accessories,USB-C Hub 7-in-1,Central,Denver,1,35.49,0.1,7.08
+ORD-2022-00245,2022-12-02,CUST-1036,Daniel White,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,10,1291.65,0.0,327.35
+ORD-2022-00246,2022-12-03,CUST-1181,Thomas Jackson,Furniture,Furnishings,Wall Clock Classic,East,Boston,2,22.41,0.5,-2.8
+ORD-2022-00247,2022-12-03,CUST-1239,George Harris,Technology,Accessories,Wireless Mouse,West,Los Angeles,1,20.26,0.15,4.89
+ORD-2022-00248,2022-12-03,CUST-1081,Amanda Smith,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Philadelphia,1,6.55,0.0,2.56
+ORD-2022-00249,2022-12-03,CUST-1138,Michael Brown,Office Supplies,Storage,Steel Filing Cabinet,West,Seattle,3,332.97,0.2,-4.83
+ORD-2022-00250,2022-12-04,CUST-1123,Jessica Lopez,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Atlanta,2,16.87,0.0,7.52
+ORD-2022-00251,2022-12-04,CUST-1110,Kevin Moore,Office Supplies,Binders,Binder Dividers Set,East,New York,5,20.89,0.0,8.71
+ORD-2022-00252,2022-12-05,CUST-1215,Elizabeth Allen,Office Supplies,Paper,Premium Notebook Pack,East,Washington,6,72.46,0.1,26.26
+ORD-2022-00253,2022-12-07,CUST-1128,,Furniture,Chairs,Ergonomic Office Chair,West,Portland,2,368.16,0.1,59.27
+ORD-2022-00254,2022-12-09,CUST-1048,Paul Lee,Furniture,Chairs,Mesh Task Chair,Central,Houston,1,85.23,0.3,-7.63
+ORD-2022-00255,2022-12-09,CUST-1077,Robert Lewis,Technology,Accessories,Wireless Mouse,East,Washington,7,129.63,0.2,31.02
+ORD-2022-00256,2022-12-10,CUST-1245,Robert Lopez,Technology,Monitors,27-inch 4K Monitor,East,Philadelphia,1,367.33,0.0,53.37
+ORD-2022-00257,2022-12-11,CUST-1027,Anthony Moore,Furniture,Furnishings,LED Desk Lamp,West,San Diego,1,32.61,0.05,9.73
+ORD-2022-00258,2022-12-13,CUST-1048,Paul Lee,Office Supplies,Paper,Premium Notebook Pack,Central,Houston,1,14.02,0.0,5.9
+ORD-2022-00259,2022-12-13,CUST-1026,Anthony Williams,Office Supplies,Binders,Binder Dividers Set,Central,Minneapolis,3,11.72,0.0,4.78
+ORD-2022-00260,2022-12-13,CUST-1257,Ashley Hernandez,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Charlotte,2,17.34,0.0,6.49
+ORD-2022-00261,2022-12-13,CUST-1029,Melissa Miller,Furniture,Chairs,Ergonomic Office Chair,West,Portland,2,366.2,0.0,64.12
+ORD-2022-00262,2022-12-15,CUST-1141,Elizabeth Jackson,Furniture,Tables,Conference Table 6ft,South,New Orleans,1,440.23,0.0,46.95
+ORD-2022-00263,2022-12-15,CUST-1240,John Rodriguez,Furniture,Chairs,Mesh Task Chair,Central,Chicago,3,348.43,0.1,49.36
+ORD-2022-00264,2022-12-17,CUST-1051,Linda Thomas,Office Supplies,Storage,Steel Filing Cabinet,West,San Diego,2,196.65,0.3,-14.16
+ORD-2022-00265,2022-12-19,CUST-1174,Paul Taylor,Office Supplies,Binders,Binder Dividers Set,West,Portland,6,25.0,0.05,10.03
+ORD-2022-00266,2022-12-19,CUST-1102,Betty Hernandez,Furniture,Chairs,Ergonomic Office Chair,Central,Chicago,5,982.08,0.0,158.02
+ORD-2022-00267,2022-12-19,CUST-1039,Ashley Martin,Office Supplies,Art,Marker Set 24 Colors,South,Nashville,1,12.01,0.0,4.2
+ORD-2022-00268,2022-12-20,CUST-1144,Andrew Miller,Office Supplies,Binders,Binder Dividers Set,West,San Diego,5,17.06,0.2,4.37
+ORD-2022-00269,2022-12-22,CUST-1205,Patricia King,Furniture,Furnishings,Wall Clock Classic, central ,Minneapolis,1,18.87,0.1,5.13
+ORD-2022-00270,2022-12-23,CUST-1232,Melissa Lewis,Office Supplies,Storage,Stackable File Box,West,San Diego,2,34.96,0.1,8.33
+ORD-2022-00271,2022-12-24,CUST-1104,Brian Jackson,Furniture,Chairs,Ergonomic Office Chair,East,New York,3,556.42,0.0,103.65
+ORD-2022-00272,2022-12-24,CUST-1080,Donna Martinez,Office Supplies,Art,Marker Set 24 Colors,West,Portland,6,63.46,0.1,21.77
+ORD-2022-00273,2022-12-24,CUST-1032,Steven Brown,Furniture,Chairs,Mesh Task Chair,Central,Houston,5,649.9,0.0,147.43
+ORD-2022-00274,2022-12-25,CUST-1174,Paul Taylor,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Houston,3,18.16,0.1,5.92
+ORD-2022-00275,2022-12-26,CUST-1180,Jennifer Davis,Furniture,Chairs,Ergonomic Office Chair,West,Portland,6,1126.06,0.05,232.56
+ORD-2022-00276,2022-12-26,CUST-1197,Elizabeth Martinez,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Dallas,3,19.86,0.2,4.39
+ORD-2022-00277,2022-12-27,CUST-1204,Mark Thompson,Technology,Accessories,USB-C Hub 7-in-1,West,San Francisco,10,396.87,0.0,142.02
+ORD-2022-00278,2022-12-27,CUST-1185,Amanda Rodriguez,Technology,Accessories,Mechanical Keyboard,West,San Diego,2,150.52,0.05,38.08
+ORD-2022-00279,2022-12-28,CUST-1221,Carol Hernandez,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Atlanta,4,33.42,0.0,13.86
+ORD-2022-00280,2022-12-28,CUST-1063,Elizabeth Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Denver,4,32.66,0.05,13.18
+ORD-2023-00281,2023-01-02,CUST-1154,Betty Smith,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Washington,6,50.0,0.0,20.06
+ORD-2023-00282,2023-01-06,CUST-1222,Nancy Taylor,Furniture,Tables,Standing Desk Adjustable,South,Orlando,1,327.45,0.0,44.27
+ORD-2023-00283,2023-01-06,CUST-1250,James Young,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Houston,10,83.99,0.0,33.99
+ORD-2023-00284,2023-01-07,CUST-1174,Paul Taylor,Technology,Monitors,27-inch 4K Monitor,Central,Chicago,1,355.28,0.05,49.79
+ORD-2023-00285,2023-01-09,CUST-1038,Karen Jones,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,2,357.99,0.0,84.67
+ORD-2023-00286,2023-01-10,CUST-1136,Amanda Williams,Furniture,Tables,Standing Desk Adjustable,West,San Francisco,1,325.53,0.0,53.15
+ORD-2023-00287,2023-01-12,CUST-1163,Kevin Clark,Furniture,Chairs,Ergonomic Office Chair,EAST,New York,4,768.67,0.0,154.28
+ORD-2023-00288,2023-01-13,CUST-1096,Lisa Harris,Office Supplies,Storage,Stackable File Box,South,Orlando,1,16.72,0.1,3.27
+ORD-2023-00289,2023-01-14,CUST-1253,Thomas Walker,Furniture,Chairs,Ergonomic Office Chair,West,San Diego,1,194.73,0.0,41.06
+ORD-2023-00290,2023-01-14,CUST-1160,Melissa Smith,Technology,Accessories,Wireless Mouse,Central,Minneapolis,3,69.73,0.0,23.83
+ORD-2023-00291,2023-01-14,CUST-1198,Nancy Johnson,Office Supplies,Art,Marker Set 24 Colors,East,New York,1,13.24,0.0,5.54
+ORD-2023-00292,2023-01-17,CUST-1123,Jessica Lopez,Technology,Accessories,Wireless Mouse,West,San Diego,4,91.01,0.0,31.68
+ORD-2023-00293,2023-01-22,CUST-1205,Patricia King,Furniture,Chairs,Mesh Task Chair,Central,Houston,1,130.4,0.0,31.31
+ORD-2023-00294,2023-01-23,CUST-1121,Elizabeth Davis,Furniture,Chairs,Ergonomic Office Chair,East,Charlotte,7,934.55,0.3,-64.6
+ORD-2023-00295,2023-01-29,CUST-1134,George Garcia,Office Supplies,Storage,Stackable File Box,West,Portland,5,76.17,,8.2
+ORD-2023-00296,2023-01-30,CUST-1014,Jessica Allen,Furniture,Chairs,Mesh Task Chair,West,San Francisco,5,668.31,0.0,135.25
+ORD-2023-00297,2023-01-31,CUST-1164,Brian Rodriguez,Furniture,Furnishings,LED Desk Lamp,East,Washington,6,201.75,0.0,72.26
+ORD-2023-00298,2023-02-01,CUST-1025,Karen Thompson,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Portland,1,5.7,0.1,1.84
+ORD-2023-00299,2023-02-02,CUST-1156,Susan King,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,3,24.62,0.05,10.86
+ORD-2023-00300,2023-02-02,CUST-1038,Karen Jones,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,2,227.03,0.4,-25.2
+ORD-2023-00301,2023-02-03,CUST-1065,Elizabeth Johnson,Technology,Phones,Smartphone X200,West,Seattle,1,486.06,0.2,29.93
+ORD-2023-00302,2023-02-06,CUST-1146,Joseph Taylor,Technology,Phones,Wireless Earbuds Pro,East,Philadelphia,1,120.5,0.0,35.17
+ORD-2023-00303,2023-02-09,CUST-1216,Elizabeth Garcia,Office Supplies,Art,Marker Set 24 Colors,South,Miami,7,87.55,0.0,39.12
+ORD-2023-00304,2023-02-10,CUST-1008,Robert Walker,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,5,920.94,0.0,173.64
+ORD-2023-00305,2023-02-13,CUST-1197,Elizabeth Martinez,Technology,Accessories,USB-C Hub 7-in-1,Central,Houston,5,203.57,0.0,67.58
+ORD-2023-00306,2023-02-18,CUST-1175,Matthew Johnson,Technology,Accessories,Mechanical Keyboard,East,Boston,2,132.13,0.2,15.71
+ORD-2023-00307,2023-02-19,CUST-1254,Kevin Allen,Office Supplies,Binders,Binder Dividers Set,West,San Francisco,1,3.91,0.05,1.5
+ORD-2023-00308,2023-02-19,CUST-1038,Karen Jones,Furniture,Tables,Standing Desk Adjustable,West,San Francisco,1,347.2,0.0,52.71
+ORD-2023-00309,2023-02-22,CUST-1008,Robert Walker,Technology,Accessories,Mechanical Keyboard,Central,Denver,2,164.68,0.0,36.86
+ORD-2023-00310,2023-02-25,CUST-1043,William White,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,San Diego,3,475.13,0.0,81.92
+ORD-2024-00759,2024-06-22,CUST-1101,George Brown,Furniture,Chairs,Mesh Task Chair,East,Boston,3,380.46,0.0,65.76
+ORD-2023-00312,2023-02-28,CUST-1006,Sandra Wilson,Office Supplies,Art,Marker Set 24 Colors,West,Portland,2,21.21,0.1,6.9
+ORD-2023-00313,2023-02-28,CUST-1044,William Williams,Technology,Accessories,Wireless Mouse,South,Miami,1,19.39,0.2,3.71
+ORD-2023-00314,2023-02-28,CUST-1004,Donna Taylor,Office Supplies,Paper,Premium Notebook Pack,West,Los Angeles,2,27.54,0.0,11.61
+ORD-2023-00315,2023-02-28,CUST-1157,James Martinez,Furniture,Tables,Conference Table 6ft,South,Orlando,1,443.04,0.0,58.19
+ORD-2023-00316,2023-02-28,CUST-1097,Andrew Martin,Technology,Accessories,Wireless Mouse, west ,Los Angeles,3,59.37,0.2,12.31
+ORD-2023-00317,2023-03-01,CUST-1013,Brian Harris,Furniture,Bookcases,Wooden Bookcase 5-Shelf,South,Nashville,5,522.47,0.3,-32.05
+ORD-2023-00318,2023-03-01,CUST-1147,George Jones,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Nashville,5,21.51,0.5,0.23
+ORD-2023-00319,2023-03-01,CUST-1089,Nancy Smith,Office Supplies,Paper,Premium Notebook Pack,West,Los Angeles,3,41.05,0.0,19.51
+ORD-2023-00320,2023-03-02,CUST-1252,Carol Martin,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Washington,1,156.16,0.0,14.74
+ORD-2023-00321,2023-03-04,CUST-1231,Michael White,Furniture,Tables,Conference Table 6ft,Central,Minneapolis,1,419.0,0.05,9.81
+ORD-2023-00322,2023-03-07,CUST-1252,Carol Martin,Technology,Accessories,Wireless Mouse,East,Washington,3,55.31,0.2,13.74
+ORD-2023-00323,2023-03-07,CUST-1199,Kevin Walker,Furniture,Tables,Standing Desk Adjustable,East,New York,1,301.53,0.1,1.85
+ORD-2023-00324,2023-03-11,CUST-1096,Lisa Harris,Furniture,Tables,Standing Desk Adjustable,South,Orlando,2,527.44,0.2,-23.17
+ORD-2023-00325,2023-03-12,CUST-1121,Elizabeth Davis,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Boston,2,13.6,0.0,5.41
+ORD-2023-00326,2023-03-12,CUST-1135,Karen Clark,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Portland,1,6.65,0.0,2.51
+ORD-2023-00327,2023-03-13,CUST-1059,Lisa Taylor,Office Supplies,Labels,Shipping Labels 500ct,West,San Francisco,2,14.99,0.2,4.42
+ORD-2023-00328,2023-03-14,CUST-1174,Paul Taylor,Office Supplies,Art,Marker Set 24 Colors,West,Portland,3,27.6,0.2,6.47
+ORD-2023-00329,2023-03-16,CUST-1131,Brian Brown,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Diego,3,20.51,0.2,6.3
+ORD-2023-00330,2023-03-17,CUST-1257,Ashley Hernandez,Furniture,Chairs,Ergonomic Office Chair,CENTRAL,Houston,2,353.53,0.0,77.38
+ORD-2023-00331,2023-03-19,CUST-1073,Daniel Martinez,Office Supplies,Art,Marker Set 24 Colors,Central,Dallas,3,37.51,0.0,15.39
+ORD-2023-00332,2023-03-20,CUST-1183,Daniel Taylor,Office Supplies,Labels,Shipping Labels 500ct,West,Portland,4,17.66,0.5,-0.05
+ORD-2023-00333,2023-03-23,CUST-1044,William Williams,Technology,Phones,Wireless Earbuds Pro,South,Miami,4,467.19,0.0,144.63
+ORD-2023-00334,2023-03-26,CUST-1044,William Williams,Technology,Accessories,Wireless Mouse,South,Miami,5,117.3,0.0,48.51
+ORD-2023-00384,2023-06-01,CUST-1002,Kevin Williams,Furniture,Tables,Conference Table 6ft,East,Washington,1,404.4,0.1,2.17
+ORD-2023-00336,2023-03-27,CUST-1233,Melissa Harris,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Nashville,6,53.59,0.0,20.82
+ORD-2023-00337,2023-03-27,CUST-1048,Paul Lee,Furniture,Chairs,Mesh Task Chair,South,Nashville,1,130.25,0.0,20.69
+ORD-2023-00338,2023-03-29,CUST-1174,Paul Taylor,Technology,Monitors,27-inch 4K Monitor,West,Portland,2,776.12,0.0,107.86
+ORD-2023-00339,2023-03-30,CUST-1080,Donna Martinez,Technology,Accessories,Wireless Mouse,West,Portland,2,47.62,0.0,16.9
+ORD-2023-00340,2023-03-31,CUST-1134,George Garcia,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,7,53.09,0.1,15.01
+ORD-2023-00341,2023-03-31,CUST-1219,Anthony Lee,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Minneapolis,1,6.51,0.0,2.81
+ORD-2023-00342,2023-04-02,CUST-1174,Paul Taylor,Furniture,Tables,Standing Desk Adjustable,West,Portland,2,693.42,0.0,65.9
+ORD-2023-00343,2023-04-03,CUST-1122,Nancy Jones,Furniture,Chairs,Ergonomic Office Chair,East,Boston,1,96.46,0.5,-16.71
+ORD-2023-00344,2023-04-03,CUST-1217,Paul Thomas,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,,1,8.42,0.0,3.85
+ORD-2023-00345,2023-04-05,CUST-1034,Joshua Martinez,Technology,Accessories,Wireless Mouse,East,New York,1,20.62,0.15,5.9
+ORD-2023-00346,2023-04-08,CUST-1105,Betty Jones,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Boston,2,9.02,0.3,1.48
+ORD-2023-00347,2023-04-08,CUST-1011,Andrew Garcia,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,Seattle,3,433.02,0.0,71.61
+ORD-2023-00348,2023-04-09,CUST-1244,Brian Anderson,Technology,Accessories,Wireless Mouse,East,Charlotte,4,82.36,0.15,20.23
+ORD-2023-00349,2023-04-14,CUST-1184,Daniel Brown,Technology,Accessories,Wireless Mouse,East,New York,1,20.87,0.15,4.63
+ORD-2023-00350,2023-04-15,CUST-1123,Jessica Lopez,Furniture,Furnishings,Wall Clock Classic,West,San Diego,4,45.98,0.5,-5.8
+ORD-2023-00351,2023-04-16,CUST-1038,Karen Jones,Furniture,Furnishings,LED Desk Lamp, west ,San Francisco,1,32.02,0.05,11.53
+ORD-2023-00352,2023-04-17,CUST-1152,George Wilson,Technology,Accessories,Mechanical Keyboard,South,Miami,2,142.39,0.1,30.38
+ORD-2023-00353,2023-04-19,CUST-1143,Nancy Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,3,24.63,0.0,10.02
+ORD-2023-00354,2023-04-19,CUST-1105,Betty Jones,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Boston,6,35.71,0.0,13.21
+ORD-2023-00355,2023-04-20,CUST-1174,Paul Taylor,Office Supplies,Art,Marker Set 24 Colors,West,Portland,1,11.07,0.1,4.21
+ORD-2023-00356,2023-04-26,CUST-1022,Donna Clark,Furniture,Tables,Standing Desk Adjustable,Central,Minneapolis,2,512.24,0.2,-33.47
+ORD-2023-00357,2023-04-27,CUST-1097,Andrew Martin,Office Supplies,Paper,Premium Notebook Pack,West,Los Angeles,6,74.23,0.1,30.48
+ORD-2023-00358,2023-04-29,CUST-1130,David Jackson,Technology,Accessories,USB-C Hub 7-in-1,South,Orlando,6,217.2,0.05,65.72
+ORD-2023-00359,2023-04-30,CUST-1152,George Wilson,Office Supplies,Binders,Binder Dividers Set,South,Miami,4,15.19,0.1,5.35
+ORD-2023-00360,2023-05-01,CUST-1022,Donna Clark,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,1,192.21,0.0,38.28
+ORD-2023-00361,2023-05-02,CUST-1234,Paul Rodriguez,Technology,Monitors,27-inch 4K Monitor,Central,Denver,3,1049.65,0.0,153.9
+ORD-2023-00362,2023-05-04,CUST-1071,Michael Hall,Furniture,Chairs,Ergonomic Office Chair,West,Seattle,1,182.79,0.0,49.06
+ORD-2023-00363,2023-05-05,CUST-1112,Anthony Young,Office Supplies,Labels,Shipping Labels 500ct,East,Boston,1,8.22,0.05,2.82
+ORD-2023-00364,2023-05-08,CUST-1111,Carol Davis,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Washington,2,11.01,0.15,3.12
+ORD-2023-00365,2023-05-10,CUST-1004,Donna Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Los Angeles,2,15.08,0.1,4.23
+ORD-2023-00366,2023-05-10,CUST-1178,Melissa Jackson,Office Supplies,Binders,Binder Dividers Set,Central,Houston,2,8.54,0.0,3.87
+ORD-2023-00367,2023-05-10,CUST-1157,James Martinez,Technology,Accessories,Mechanical Keyboard,South,Orlando,3,194.54,0.2,23.2
+ORD-2023-00368,2023-05-13,CUST-1038,Karen Jones,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,5,904.41,0.05,191.18
+ORD-2023-00369,2023-05-15,CUST-1079,Mary Garcia,Furniture,Furnishings,Wall Clock Classic,West,Portland,3,65.42,0.0,27.3
+ORD-2023-00370,2023-05-18,CUST-1038,Karen Jones,Technology,Phones,Wireless Earbuds Pro,West,San Francisco,7,790.22,0.05,181.26
+ORD-2023-00371,2023-05-19,CUST-1132,Patricia Martin,Furniture,Tables,Standing Desk Adjustable,West,San Francisco,2,637.26,0.0,55.79
+ORD-2023-00372,2023-05-22,CUST-1111,Carol Davis,Office Supplies,Binders,Binder Dividers Set,East,Washington,4,15.2,0.1,5.78
+ORD-2023-00373,2023-05-24,CUST-1174,Paul Taylor,Furniture,Tables,Conference Table 6ft,West,Portland,1,418.72,0.1,10.9
+ORD-2023-00374,2023-05-25,CUST-1035,John Williams,Technology,Accessories,Wireless Mouse,Central,Minneapolis,2,40.52,0.2,7.28
+ORD-2023-00375,2023-05-25,CUST-1069,Melissa Young,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Boston,2,16.96,0.0,7.14
+ORD-2023-00376,2023-05-26,CUST-1075,Emily Harris,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,New York,5,34.7,0.15,10.16
+ORD-2023-00377,2023-05-26,CUST-1174,Paul Taylor,Furniture,Chairs,Ergonomic Office Chair,West,Portland,1,179.03,0.05,37.91
+ORD-2023-00378,2023-05-27,CUST-1191,Betty White,Technology,Phones,Wireless Earbuds Pro,Central,Houston,6,714.54,0.0,211.7
+ORD-2023-00379,2023-05-27,CUST-1123,Jessica Lopez,Technology,Accessories,Wireless Mouse,West,San Diego,1,22.39,0.05,6.73
+ORD-2023-00380,2023-05-29,CUST-1203,Thomas Lopez,Office Supplies,Binders,Binder Dividers Set,East,Philadelphia,3,11.71,0.0,5.81
+ORD-2023-00381,2023-05-29,CUST-1048,Paul Lee,Office Supplies,Binders,Binder Dividers Set,West,Los Angeles,3,6.19,0.5,0.23
+ORD-2023-00382,2023-05-30,CUST-1174,Paul Taylor,Technology,Phones,Smartphone X200,West,Portland,1,579.46,0.0,90.19
+ORD-2023-00383,2023-05-31,CUST-1222,Nancy Taylor,Furniture,Tables,Conference Table 6ft,South,Orlando,2,903.05,0.0,63.14
+ORD-2023-00384,2023-06-01,CUST-1002,Kevin Williams,Furniture,Tables,Conference Table 6ft,East,Washington,1,404.4,0.1,2.17
+ORD-2023-00385,2023-06-01,CUST-1226,Sarah King,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Denver,2,288.81,0.05,28.36
+ORD-2023-00386,2023-06-02,CUST-1052,Jennifer Thompson,Technology,Accessories,Mechanical Keyboard,West,Los Angeles,1,76.94,0.0,23.28
+ORD-2023-00387,2023-06-03,CUST-1236,Emily Lewis,Furniture,Chairs,Mesh Task Chair,West,Seattle,1,103.76,0.2,-1.1
+ORD-2023-00388,2023-06-04,CUST-1046,Richard Lewis,Furniture,Tables,Conference Table 6ft, east ,Boston,2,883.42,0.0,95.55
+ORD-2023-00389,2023-06-04,CUST-1014,Jessica Allen,Furniture,Chairs,Mesh Task Chair,West,San Francisco,4,486.59,0.1,53.45
+ORD-2023-00390,2023-06-05,CUST-1048,Paul Lee,Office Supplies,Paper,Premium Notebook Pack,Central,Houston,1,13.96,0.0,6.54
+ORD-2023-00391,2023-06-06,CUST-1112,Anthony Young,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Portland,5,29.41,0.1,11.12
+ORD-2023-00392,2023-06-06,CUST-1157,James Martinez,Furniture,Bookcases,Wooden Bookcase 5-Shelf,South,Orlando,1,129.11,0.2,0.09
+ORD-2023-00393,2023-06-07,CUST-1048,Paul Lee,Office Supplies,Binders,Heavy Duty Binder 3-Ring,South,Miami,6,32.11,0.2,7.06
+ORD-2023-00394,2023-06-08,CUST-1060,James Hernandez,Furniture,Furnishings,Wall Clock Classic,West,Seattle,5,114.94,0.0,43.87
+ORD-2023-00395,2023-06-08,CUST-1148,,Furniture,Furnishings,Wall Clock Classic,Central,Dallas,5,107.79,0.0,38.56
+ORD-2023-00396,2023-06-08,CUST-1046,Richard Lewis,Furniture,Chairs,Ergonomic Office Chair,East,Boston,2,369.42,0.0,79.48
+ORD-2023-00397,2023-06-10,CUST-1096,Lisa Harris,Office Supplies,Binders,Heavy Duty Binder 3-Ring,South,Orlando,2,13.44,0.0,5.04
+ORD-2023-00398,2023-06-13,CUST-1051,Linda Thomas,Technology,Monitors,27-inch 4K Monitor,West,San Diego,1,313.41,0.15,3.95
+ORD-2023-00399,2023-06-14,CUST-1016,Nancy Martinez,Furniture,Furnishings,Wall Clock Classic,East,Boston,4,85.07,0.0,28.93
+ORD-2023-00400,2023-06-14,CUST-1093,Karen Thomas,Office Supplies,Labels,Shipping Labels 500ct,Central,Denver,10,79.49,0.1,27.78
+ORD-2023-00401,2023-06-14,CUST-1223,Karen Allen,Technology,Accessories,Wireless Mouse,West,Los Angeles,2,45.54,0.0,18.99
+ORD-2023-00402,2023-06-15,CUST-1075,Emily Harris,Furniture,Chairs,Mesh Task Chair,East,New York,5,614.81,0.0,121.75
+ORD-2023-00403,2023-06-16,CUST-1037,Amanda Jones,Technology,Accessories,USB-C Hub 7-in-1,East,Washington,4,156.23,0.0,48.93
+ORD-2023-00404,2023-06-16,CUST-1147,George Jones,Office Supplies,Paper,A4 Copy Paper 500 sheets,SOUTH,Nashville,1,7.67,0.05,3.0
+ORD-2023-00405,2023-06-18,CUST-1078,Linda Lopez,Technology,Monitors,27-inch 4K Monitor,South,Nashville,1,265.3,0.3,-22.4
+ORD-2023-00406,2023-06-18,CUST-1217,Paul Thomas,Furniture,Tables,Conference Table 6ft,East,Philadelphia,1,310.52,0.3,-57.85
+ORD-2023-00407,2023-06-19,CUST-1125,Elizabeth Rodriguez,Technology,Accessories,Mechanical Keyboard,South,Atlanta,3,245.26,0.0,79.62
+ORD-2023-00408,2023-06-20,CUST-1085,Mary White,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,2,359.27,0.0,66.92
+ORD-2023-00409,2023-06-24,CUST-1106,James White,Furniture,Chairs,Ergonomic Office Chair,East,New York,4,787.13,0.0,194.51
+ORD-2023-00410,2023-06-25,CUST-1216,Elizabeth Garcia,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,1,6.36,0.0,2.55
+ORD-2023-00411,2023-06-26,CUST-1138,Michael Brown,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,2,16.47,0.0,7.31
+ORD-2023-00412,2023-06-27,CUST-1138,Michael Brown,Furniture,Chairs,Ergonomic Office Chair,South,Atlanta,3,499.59,0.15,39.05
+ORD-2023-00413,2023-06-30,CUST-1253,Thomas Walker,Technology,Accessories,Wireless Mouse,West,San Diego,2,38.88,0.2,7.47
+ORD-2023-00414,2023-07-01,CUST-1120,Daniel Clark,Furniture,Chairs,Mesh Task Chair,CENTRAL,Dallas,1,131.75,0.0,31.51
+ORD-2023-00415,2023-07-01,CUST-1117,Betty Clark,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,8,1073.63,0.3,-80.74
+ORD-2023-00416,2023-07-02,CUST-1077,Robert Lewis,Furniture,Chairs,Ergonomic Office Chair,East,Washington,1,164.88,0.1,17.92
+ORD-2023-00417,2023-07-03,CUST-1113,James Lopez,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,1,8.73,0.0,3.57
+ORD-2023-00418,2023-07-04,CUST-1104,Brian Jackson,Furniture,Furnishings,Wall Clock Classic,East,,3,69.26,0.0,25.46
+ORD-2023-00419,2023-07-04,CUST-1039,,Office Supplies,Paper,Premium Notebook Pack,West,Portland,2,26.8,0.0,11.8
+ORD-2023-00420,2023-07-07,CUST-1032,Steven Brown,Furniture,Chairs,Mesh Task Chair,Central,Houston,2,258.63,0.0,44.46
+ORD-2023-00421,2023-07-09,CUST-1226,Sarah King,Office Supplies,Art,Marker Set 24 Colors,Central,Denver,2,23.08,0.05,8.8
+ORD-2023-00422,2023-07-10,CUST-1226,Sarah King,Furniture,Chairs,Mesh Task Chair,Central,Denver,1,122.49,0.0,24.91
+ORD-2023-00423,2023-07-11,CUST-1248,Emily Lopez,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Denver,5,42.56,0.0,19.6
+ORD-2023-00424,2023-07-12,CUST-1185,Amanda Rodriguez,Furniture,Chairs,Mesh Task Chair,Central,Dallas,9,1109.44,0.0,275.68
+ORD-2023-00425,2023-07-12,CUST-1147,George Jones,Technology,Phones,Smartphone X200,South,Nashville,1,607.15,0.05,96.71
+ORD-2023-00426,2023-07-13,CUST-1257,Ashley Hernandez,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Houston,1,6.77,0.0,2.36
+ORD-2023-00427,2023-07-15,CUST-1089,Nancy Smith,Office Supplies,Art,Marker Set 24 Colors,West,Los Angeles,3,18.21,0.5,-0.86
+ORD-2023-00428,2023-07-16,CUST-1062,John Lee,Furniture,Furnishings,Wall Clock Classic,East,Washington,3,66.21,0.0,24.19
+ORD-2023-00429,2023-07-18,CUST-1104,Brian Jackson,Technology,Accessories,Mechanical Keyboard,East,New York,1,68.6,0.1,13.51
+ORD-2023-00430,2023-07-18,CUST-1160,Melissa Smith,Furniture,Chairs,Mesh Task Chair,East,Washington,2,197.3,0.2,-0.0
+ORD-2023-00431,2023-07-19,CUST-1096,Lisa Harris,Furniture,Chairs,Mesh Task Chair,South,Orlando,4,432.85,0.15,38.36
+ORD-2023-00432,2023-07-20,CUST-1225,Michelle Taylor,Furniture,Chairs,Ergonomic Office Chair,East,New York,2,355.58,0.0,92.67
+ORD-2023-00433,2023-07-21,CUST-1048,Paul Lee,Office Supplies,Binders,Binder Dividers Set,West,San Diego,3,11.23,0.1,4.28
+ORD-2023-00434,2023-07-21,CUST-1097,Andrew Martin,Furniture,Furnishings,Wall Clock Classic,West,Los Angeles,3,66.66,0.0,21.86
+ORD-2023-00435,2023-07-22,CUST-1247,Steven Clark,Technology,Accessories,Wireless Mouse,South,Orlando,4,79.23,0.2,15.39
+ORD-2023-00436,2023-07-22,CUST-1159,Mary Hall,Furniture,Chairs,Ergonomic Office Chair,East,Washington,3,591.26,0.0,160.4
+ORD-2023-00437,2023-07-23,CUST-1050,Patricia Harris,Technology,Accessories,Wireless Mouse,East,Boston,4,91.72,0.0,33.68
+ORD-2023-00438,2023-07-24,CUST-1119,Richard Taylor,Furniture,Chairs,Mesh Task Chair,East,Philadelphia,2,121.25,0.5,-24.59
+ORD-2023-00439,2023-07-26,CUST-1081,Amanda Smith,Furniture,Furnishings,Wall Clock Classic,East,Philadelphia,3,64.69,0.0,19.06
+ORD-2023-00608,2023-12-25,CUST-1217,Paul Thomas,Office Supplies,Art,Marker Set 24 Colors,East,Philadelphia,2,23.91,0.0,9.33
+ORD-2023-00441,2023-07-28,CUST-1199,Kevin Walker,Furniture,Tables,Standing Desk Adjustable,East,New York,1,317.05,0.05,22.38
+ORD-2023-00442,2023-07-28,CUST-1101,George Brown,Furniture,Furnishings,LED Desk Lamp,East,Boston,4,138.53,0.0,54.29
+ORD-2023-00443,2023-07-30,CUST-1212,Jennifer Taylor,Technology,Accessories,USB-C Hub 7-in-1,East,Washington,2,74.4,0.05,21.44
+ORD-2023-00444,2023-07-30,CUST-1215,Elizabeth Allen,Furniture,Chairs,Ergonomic Office Chair,East,Washington,7,1321.95,0.0,333.36
+ORD-2023-00445,2023-07-31,CUST-1187,Michael Wilson,Technology,Phones,Wireless Earbuds Pro,West,San Francisco,5,583.31,0.0,148.62
+ORD-2023-00446,2023-07-31,CUST-1190,Elizabeth Williams,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Seattle,7,41.43,0.1,13.55
+ORD-2023-00447,2023-08-01,CUST-1020,Susan Davis,Furniture,Chairs,Mesh Task Chair,East,Washington,1,132.45,0.0,27.74
+ORD-2023-00448,2023-08-02,CUST-1039,Ashley Martin,Technology,Phones,Smartphone X200,West,Portland,1,577.68,0.0,128.83
+ORD-2023-00449,2023-08-03,CUST-1038,Karen Jones,Office Supplies,Storage,Stackable File Box,West,San Francisco,2,33.35,0.1,7.17
+ORD-2023-00450,2023-08-03,CUST-1226,Sarah King,Furniture,Furnishings,LED Desk Lamp,West,San Diego,1,35.96,0.0,13.32
+ORD-2023-00451,2023-08-03,CUST-1057,Steven Thomas,Office Supplies,Binders,Binder Dividers Set,South,Miami,5,22.12,0.0,10.23
+ORD-2023-00452,2023-08-04,CUST-1047,Daniel Walker,Furniture,Tables,Standing Desk Adjustable,Central,Houston,1,239.89,0.3,-29.87
+ORD-2023-00453,2023-08-05,CUST-1202,James Anderson,Furniture,Furnishings,Wall Clock Classic,South,New Orleans,1,20.03,0.1,6.22
+ORD-2023-00454,2023-08-09,CUST-1048,Paul Lee,Technology,Monitors,27-inch 4K Monitor,Central,Houston,1,342.56,0.05,31.74
+ORD-2023-00455,2023-08-11,CUST-1234,Paul Rodriguez,Furniture,Tables,Standing Desk Adjustable,Central,Denver,1,249.28,0.2,1.41
+ORD-2023-00456,2023-08-11,CUST-1216,Elizabeth Garcia,Furniture,Furnishings,LED Desk Lamp,West,San Francisco,2,58.29,0.1,17.25
+ORD-2023-00457,2023-08-13,CUST-1145,Emily Hall,Technology,Accessories,USB-C Hub 7-in-1,Central,Minneapolis,3,108.23,0.1,32.02
+ORD-2023-00458,2023-08-15,CUST-1118,Donna Harris,Office Supplies,Storage,Stackable File Box,West,Los Angeles,1,18.32,0.0,5.4
+ORD-2023-00459,2023-08-16,CUST-1079,Mary Garcia,Technology,Accessories,Wireless Mouse,West,Portland,3,74.17,0.0,31.79
+ORD-2023-00460,2023-08-16,CUST-1241,George Thomas,Furniture,Chairs,Mesh Task Chair,SOUTH,New Orleans,3,380.16,0.0,75.16
+ORD-2023-00461,2023-08-16,CUST-1005,Matthew Lopez,Furniture,Chairs,Mesh Task Chair,South,Orlando,5,643.98,0.0,151.24
+ORD-2023-00462,2023-08-17,CUST-1192,Steven Martin,Technology,Accessories,Wireless Mouse,Central,Dallas,2,46.75,0.0,19.29
+ORD-2023-00463,2023-08-17,CUST-1152,George Wilson,Technology,Accessories,USB-C Hub 7-in-1,South,Miami,2,71.51,0.1,20.17
+ORD-2023-00464,2023-08-19,CUST-1152,George Wilson,Furniture,Chairs,Ergonomic Office Chair,South,Miami,6,1161.45,0.0,306.98
+ORD-2023-00465,2023-08-19,CUST-1021,Michelle Garcia,Office Supplies,Paper,Premium Notebook Pack,West,Portland,3,38.11,0.1,12.7
+ORD-2023-00466,2023-08-20,CUST-1015,Donna Garcia,Office Supplies,Storage,Steel Filing Cabinet,East,Washington,2,250.32,0.1,26.91
+ORD-2023-00467,2023-08-21,CUST-1215,Elizabeth Allen,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Washington,1,7.9,0.05,2.92
+ORD-2022-00122,2022-07-30,CUST-1174,Paul Taylor,Furniture,Furnishings,LED Desk Lamp,South,Nashville,6,177.84,0.1,49.43
+ORD-2023-00469,2023-08-24,CUST-1108,Ashley Lewis,Furniture,Chairs,Mesh Task Chair,West,San Francisco,1,109.89,0.15,4.85
+ORD-2023-00470,2023-08-24,CUST-1102,Betty Hernandez,Office Supplies,Paper,Premium Notebook Pack,CENTRAL,Chicago,4,53.41,0.0,23.04
+ORD-2023-00471,2023-08-25,CUST-1048,Paul Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Boston,3,26.02,0.0,11.43
+ORD-2023-00472,2023-08-25,CUST-1038,Karen Jones,Technology,Phones,Smartphone X200,West,San Francisco,1,538.49,0.1,39.54
+ORD-2023-00473,2023-08-25,CUST-1064,Andrew Martinez,Office Supplies,Storage,Stackable File Box,West,San Diego,5,79.83,0.1,18.52
+ORD-2023-00474,2023-08-26,CUST-1231,Michael White,Office Supplies,Paper,Premium Notebook Pack,Central,Minneapolis,3,35.28,0.2,11.69
+ORD-2023-00475,2023-08-27,CUST-1048,Paul Lee,Furniture,Furnishings,LED Desk Lamp,Central,Houston,2,69.14,0.0,24.96
+ORD-2023-00476,2023-08-30,CUST-1143,Nancy Lee,Technology,Accessories,Mechanical Keyboard,West,Portland,3,198.84,0.2,40.7
+ORD-2023-00477,2023-08-30,CUST-1221,Carol Hernandez,Technology,Accessories,Mechanical Keyboard,South,Atlanta,5,380.63,0.0,112.77
+ORD-2023-00478,2023-08-31,CUST-1231,Michael White,Furniture,Furnishings,Wall Clock Classic,Central,Minneapolis,1,19.75,0.1,5.47
+ORD-2023-00479,2023-09-01,CUST-1174,Paul Taylor,Technology,Monitors,27-inch 4K Monitor,West,Portland,1,293.61,0.2,-7.8
+ORD-2023-00480,2023-09-02,CUST-1021,Michelle Garcia,Furniture,Chairs,Ergonomic Office Chair,South,New Orleans,6,1049.22,0.1,154.02
+ORD-2023-00481,2023-09-02,CUST-1071,Michael Hall,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Washington,6,1002.36,0.0,200.74
+ORD-2023-00482,2023-09-02,CUST-1100,Elizabeth King,Technology,Accessories,Mechanical Keyboard,Central,Minneapolis,3,190.91,,27.51
+ORD-2023-00483,2023-09-03,CUST-1048,Paul Lee,Furniture,Chairs,Ergonomic Office Chair,West,Portland,8,1507.14,0.0,326.93
+ORD-2023-00484,2023-09-04,CUST-1162,Mary Davis,Furniture,Chairs,Ergonomic Office Chair,East,Philadelphia,2,372.5,0.0,95.68
+ORD-2023-00485,2023-09-04,CUST-1189,Susan Wilson,Technology,Accessories,Mechanical Keyboard,South,Nashville,2,148.54,0.0,51.33
+ORD-2023-00486,2023-09-05,CUST-1226,Sarah King,Technology,Phones,Wireless Earbuds Pro,Central,Denver,3,360.9,0.0,107.38
+ORD-2023-00487,2023-09-06,CUST-1183,Daniel Taylor,Office Supplies,Paper,Premium Notebook Pack,West,Portland,10,65.83,0.5,-1.35
+ORD-2023-00488,2023-09-07,CUST-1226,Sarah King,Office Supplies,Art,Marker Set 24 Colors,Central,Denver,5,58.03,0.05,20.37
+ORD-2023-00489,2023-09-07,CUST-1036,Daniel White,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,3,371.83,0.05,61.29
+ORD-2023-00490,2023-09-08,CUST-1161,Mark Williams,Furniture,Furnishings,Wall Clock Classic,South,New Orleans,3,61.48,0.05,19.87
+ORD-2023-00491,2023-09-08,CUST-1020,Susan Davis,Technology,Accessories,Wireless Mouse,East,Washington,2,47.27,0.0,14.68
+ORD-2023-00492,2023-09-08,CUST-1079,Mary Garcia,Technology,Phones,Smartphone X200,West,Portland,1,493.97,0.15,0.24
+ORD-2023-00493,2023-09-09,CUST-1097,Andrew Martin,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,3,382.92,0.0,73.49
+ORD-2023-00494,2023-09-12,CUST-1088,George Taylor,Furniture,Bookcases,Wooden Bookcase 5-Shelf,South,Atlanta,3,450.57,0.0,68.33
+ORD-2023-00495,2023-09-12,CUST-1048,Paul Lee,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Houston,2,17.52,0.0,7.58
+ORD-2024-00947,2024-11-30,CUST-1066,Joseph Martinez,Office Supplies,Labels,Shipping Labels 500ct,Central,Denver,5,36.22,0.2,9.54
+ORD-2023-00497,2023-09-16,CUST-1014,Jessica Allen,Furniture,Tables,Conference Table 6ft,West,San Francisco,1,404.3,0.1,44.63
+ORD-2023-00498,2023-09-17,CUST-1187,Michael Wilson,Office Supplies,Binders,Binder Dividers Set,East,Charlotte,2,6.29,0.2,1.7
+ORD-2023-00499,2023-09-18,CUST-1171,Ashley Taylor,Furniture,Chairs,Mesh Task Chair,Central,Houston,1,131.56,0.0,19.28
+ORD-2023-00500,2023-09-19,CUST-1180,Jennifer Davis,Furniture,Chairs,Mesh Task Chair,West,Portland,2,264.72,0.0,38.5
+ORD-2023-00501,2023-09-19,CUST-1014,Jessica Allen,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Francisco,1,7.03,0.2,2.0
+ORD-2023-00502,2023-09-20,CUST-1218,Elizabeth Walker,Office Supplies,Paper,Premium Notebook Pack,Central,Denver,4,60.05,0.0,28.04
+ORD-2023-00503,2023-09-20,CUST-1215,Elizabeth Allen,Furniture,Chairs,Ergonomic Office Chair,East,Washington,1,158.69,0.2,7.43
+ORD-2023-00504,2023-09-21,CUST-1077,Robert Lewis,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Washington,8,52.5,0.0,21.18
+ORD-2023-00505,2023-09-22,CUST-1158,Donna Moore,Furniture,Tables,Standing Desk Adjustable,South,Miami,3,971.67,0.0,134.4
+ORD-2023-00506,2023-09-22,CUST-1150,Donna Martin,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,Seattle,5,636.54,0.2,-14.82
+ORD-2023-00507,2023-09-23,CUST-1060,James Hernandez,Technology,Monitors,27-inch 4K Monitor,South,New Orleans,1,333.16,0.1,29.09
+ORD-2023-00508,2023-09-24,CUST-1176,Mary Miller,Technology,Accessories,Wireless Mouse,Central,Denver,1,18.65,0.2,3.46
+ORD-2023-00509,2023-09-24,CUST-1174,Paul Taylor,Furniture,Chairs,Ergonomic Office Chair,West,Portland,3,582.03,0.0,141.51
+ORD-2023-00510,2023-09-25,CUST-1172,Sandra Williams,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Charlotte,1,6.94,0.15,2.06
+ORD-2023-00511,2023-09-26,CUST-1129,Robert Rodriguez,Furniture,Chairs,Mesh Task Chair,Central,Chicago,4,509.94,0.0,93.75
+ORD-2023-00512,2023-09-26,CUST-1102,Betty Hernandez,Technology,Phones,Smartphone X200,Central,Chicago,3,1404.36,0.2,12.58
+ORD-2023-00513,2023-09-28,CUST-1044,William Williams,Furniture,Furnishings,LED Desk Lamp,South,Miami,2,63.84,0.1,20.24
+ORD-2023-00514,2023-09-30,CUST-1014,Jessica Allen,Furniture,Furnishings,LED Desk Lamp,West,San Francisco,7,230.5,0.05,67.73
+ORD-2023-00515,2023-10-01,CUST-1232,Melissa Lewis,Technology,Accessories,USB-C Hub 7-in-1,West,San Diego,2,72.97,0.1,21.23
+ORD-2023-00516,2023-10-01,CUST-1038,Karen Jones,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Francisco,1,8.08,0.0,3.32
+ORD-2023-00517,2023-10-01,CUST-1201,Emily Martinez,Technology,Accessories,Wireless Mouse,West,San Diego,4,96.06,0.0,30.9
+ORD-2023-00518,2023-10-04,CUST-1214,Daniel Allen,Furniture,Chairs,Mesh Task Chair,East,New York,7,446.59,0.5,-101.17
+ORD-2023-00519,2023-10-05,CUST-1216,Elizabeth Garcia,Technology,Accessories,Wireless Mouse,South,Miami,1,16.68,0.3,2.17
+ORD-2023-00520,2023-10-12,CUST-1006,Sandra Wilson,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,6,1190.95,0.0,277.51
+ORD-2023-00521,2023-10-12,CUST-1001,Patricia Clark,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,10,76.13,0.1,25.81
+ORD-2023-00522,2023-10-12,CUST-1130,David Jackson,Furniture,Tables,Standing Desk Adjustable,South,Orlando,3,993.02,0.0,156.13
+ORD-2023-00523,2023-10-14,CUST-1152,George Wilson,Furniture,Chairs,Mesh Task Chair,South,Miami,6,706.04,0.1,74.96
+ORD-2023-00524,2023-10-15,CUST-1226,Sarah King,Furniture,Bookcases,Wooden Bookcase 5-Shelf,CENTRAL,Denver,1,158.51,0.0,29.62
+ORD-2023-00525,2023-10-16,CUST-1003,Lisa King,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,5,849.99,0.1,74.35
+ORD-2023-00526,2023-10-17,CUST-1048,Paul Lee,Technology,Accessories,Wireless Mouse,Central,Houston,3,68.8,0.0,26.14
+ORD-2023-00527,2023-10-18,CUST-1059,Lisa Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Francisco,4,35.07,0.0,18.1
+ORD-2023-00528,2023-10-18,CUST-1097,Andrew Martin,Technology,Copiers,Laser Copier Pro,West,Los Angeles,2,1748.82,0.0,390.72
+ORD-2023-00529,2023-10-19,CUST-1215,Elizabeth Allen,Technology,Accessories,Wireless Mouse,East,Washington,8,153.29,0.2,37.9
+ORD-2023-00530,2023-10-19,CUST-1100,Elizabeth King,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,7,1330.0,0.0,284.62
+ORD-2023-00531,2023-10-23,CUST-1224,Kevin Lopez,Furniture,Chairs,Mesh Task Chair,West,San Francisco,1,126.86,0.0,20.04
+ORD-2023-00532,2023-10-23,CUST-1059,Lisa Taylor,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,San Francisco,3,485.13,0.0,75.27
+ORD-2023-00533,2023-10-24,CUST-1066,Joseph Martinez,Office Supplies,Art,Marker Set 24 Colors,Central,Denver,1,7.25,0.4,0.44
+ORD-2023-00534,2023-10-25,CUST-1044,William Williams,Furniture,Chairs,Mesh Task Chair,South,Miami,3,350.65,0.1,39.76
+ORD-2023-00535,2023-10-25,CUST-1235,Daniel Hall,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Boston,5,646.93,0.15,17.37
+ORD-2023-00536,2023-10-26,CUST-1117,Betty Clark,Furniture,Chairs,Ergonomic Office Chair,Central,Minneapolis,1,110.07,0.4,-9.82
+ORD-2023-00537,2023-10-27,CUST-1152,George Wilson,Furniture,Furnishings,LED Desk Lamp,South,Orlando,3,93.11,,33.14
+ORD-2023-00538,2023-10-28,CUST-1102,Betty Hernandez,Furniture,Furnishings,Wall Clock Classic,Central,Chicago,2,22.23,0.5,-0.59
+ORD-2023-00539,2023-10-28,CUST-1110,Kevin Moore,Furniture,Furnishings,LED Desk Lamp,East,New York,3,82.93,0.2,15.41
+ORD-2023-00540,2023-10-28,CUST-1066,Joseph Martinez,Office Supplies,Storage,Steel Filing Cabinet,Central,Denver,3,333.0,0.2,2.1
+ORD-2023-00541,2023-10-29,CUST-1014,Jessica Allen,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Francisco,4,32.78,0.0,15.72
+ORD-2023-00542,2023-10-29,CUST-1148,Karen Harris,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Dallas,1,7.17,0.15,2.34
+ORD-2023-00543,2023-10-31,CUST-1218,Elizabeth Walker,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,4,767.32,0.0,206.63
+ORD-2023-00544,2023-11-01,CUST-1177,Thomas Garcia,Office Supplies,Paper,Premium Notebook Pack,East,Washington,2,25.54,0.05,11.02
+ORD-2023-00545,2023-11-01,CUST-1133,Matthew Young,Furniture,Chairs,Mesh Task Chair,East,Charlotte,2,273.88,0.0,42.87
+ORD-2023-00546,2023-11-02,CUST-1212,Jennifer Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,2,17.4,0.0,7.68
+ORD-2023-00547,2023-11-02,CUST-1152,George Wilson,Technology,Accessories,Wireless Mouse,South,Miami,1,23.63,0.0,8.83
+ORD-2023-00548,2023-11-03,CUST-1250,James Young,Technology,Accessories,USB-C Hub 7-in-1,Central,Houston,2,61.07,0.2,9.36
+ORD-2023-00549,2023-11-04,CUST-1233,Melissa Harris,Furniture,Furnishings,LED Desk Lamp,South,Orlando,1,31.6,0.05,10.41
+ORD-2023-00550,2023-11-05,CUST-1178,Melissa Jackson,Furniture,Chairs,Ergonomic Office Chair,Central,Houston,5,913.02,0.0,187.63
+ORD-2023-00551,2023-11-06,CUST-1121,Elizabeth Davis,Furniture,Chairs,Ergonomic Office Chair,East,Boston,3,562.13,0.0,99.19
+ORD-2023-00552,2023-11-07,CUST-1191,Betty White,Office Supplies,Binders,Binder Dividers Set,Central,Houston,4,16.89,0.0,7.88
+ORD-2023-00553,2023-11-08,CUST-1149,Linda Moore,Technology,Accessories,Wireless Mouse,South,Atlanta,8,191.21,0.0,77.14
+ORD-2023-00554,2023-11-09,CUST-1257,Ashley Hernandez,Technology,Accessories,Mechanical Keyboard,Central,Houston,4,248.9,0.2,27.3
+ORD-2023-00555,2023-11-09,CUST-1048,Paul Lee,Technology,Accessories,USB-C Hub 7-in-1,Central,Houston,3,114.19,0.0,34.78
+ORD-2023-00556,2023-11-10,CUST-1095,William Clark,Technology,Accessories,Wireless Mouse,East,Philadelphia,1,19.77,0.2,3.93
+ORD-2023-00557,2023-11-12,CUST-1132,Patricia Martin,Office Supplies,Storage,Stackable File Box,East,Washington,4,73.65,0.05,13.07
+ORD-2023-00558,2023-11-12,CUST-1035,John Williams,Technology,Accessories,Wireless Mouse,Central,Minneapolis,1,20.19,0.2,3.98
+ORD-2023-00559,2023-11-13,CUST-1112,Anthony Young,Furniture,Tables,Conference Table 6ft,West,Seattle,2,920.78,0.0,38.45
+ORD-2023-00560,2023-11-14,CUST-1226,Sarah King,Office Supplies,Storage,Steel Filing Cabinet,East,New York,2,276.57,0.0,48.58
+ORD-2023-00561,2023-11-14,CUST-1127,Daniel Moore,Office Supplies,Art,Marker Set 24 Colors,South,Nashville,4,33.46,0.3,6.04
+ORD-2023-00562,2023-11-15,CUST-1087,Jennifer Thomas,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Los Angeles,2,17.07,0.0,7.07
+ORD-2023-00563,2023-11-15,CUST-1225,Michelle Taylor,Furniture,Chairs,Ergonomic Office Chair,East,New York,2,370.95,0.0,74.65
+ORD-2023-00564,2023-11-15,CUST-1074,Steven Wilson,Office Supplies,Storage,Stackable File Box,East,Philadelphia,2,26.07,0.3,1.88
+ORD-2023-00565,2023-11-15,CUST-1226,,Office Supplies,Storage,Steel Filing Cabinet,Central,Denver,4,556.4,0.0,78.49
+ORD-2023-00566,2023-11-17,CUST-1048,Paul Lee,Technology,Monitors,27-inch 4K Monitor,Central,Houston,1,399.56,0.0,62.05
+ORD-2023-00567,2023-11-20,CUST-1044,William Williams,Technology,Phones,Smartphone X200,South,Miami,1,598.4,0.0,99.01
+ORD-2023-00568,2023-11-20,CUST-1250,James Young,Office Supplies,Art,Marker Set 24 Colors,Central,Houston,3,36.26,0.0,14.58
+ORD-2023-00569,2023-11-21,CUST-1245,Robert Lopez,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Philadelphia,1,7.79,0.05,2.95
+ORD-2023-00570,2023-11-21,CUST-1138,Michael Brown,Furniture,Furnishings,LED Desk Lamp,West,Seattle,4,136.21,0.0,47.07
+ORD-2023-00571,2023-11-21,CUST-1121,Elizabeth Davis,Furniture,Furnishings,Wall Clock Classic,East,Boston,2,39.26,0.05,12.7
+ORD-2023-00572,2023-11-22,CUST-1132,Patricia Martin,Furniture,Furnishings,LED Desk Lamp,East,Washington,5,143.11,0.1,44.63
+ORD-2023-00573,2023-11-22,CUST-1210,Michelle Allen,Technology,Accessories,Wireless Mouse,West,Portland,1,21.15,0.15,4.31
+ORD-2023-00574,2023-11-23,CUST-1074,Steven Wilson,Furniture,Tables,Standing Desk Adjustable,East,Philadelphia,1,248.42,0.2,-16.78
+ORD-2023-00575,2023-11-23,CUST-1180,Jennifer Davis,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,4,28.69,0.15,7.46
+ORD-2023-00576,2023-11-24,CUST-1187,Michael Wilson,Furniture,Tables,Conference Table 6ft,South,Orlando,2,456.63,0.5,-131.67
+ORD-2023-00577,2023-11-25,CUST-1204,Mark Thompson,Furniture,Chairs,Ergonomic Office Chair,West,Los Angeles,1,188.65,0.0,38.49
+ORD-2023-00578,2023-11-25,CUST-1253,Thomas Walker,Office Supplies,Art,Marker Set 24 Colors,South,New Orleans,3,38.77,0.0,15.75
+ORD-2023-00579,2023-11-26,CUST-1219,Anthony Lee,Office Supplies,Binders,Binder Dividers Set,Central,Minneapolis,5,20.84,0.0,8.06
+ORD-2023-00580,2023-11-26,CUST-1234,Paul Rodriguez,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Denver,3,13.55,0.3,1.62
+ORD-2023-00581,2023-11-26,CUST-1015,Donna Garcia,Technology,Accessories,USB-C Hub 7-in-1,East,Washington,3,92.94,0.2,17.59
+ORD-2023-00582,2023-11-27,CUST-1122,Nancy Jones,Furniture,Chairs,Mesh Task Chair,East,Boston,3,384.81,0.0,86.28
+ORD-2023-00583,2023-11-28,CUST-1014,Jessica Allen,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Francisco,2,8.59,0.5,-0.11
+ORD-2023-00584,2023-12-02,CUST-1071,Michael Hall,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,1,182.91,0.05,44.1
+ORD-2023-00585,2023-12-03,CUST-1132,Patricia Martin,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Washington,6,39.8,0.0,16.31
+ORD-2023-00586,2023-12-03,CUST-1011,Andrew Garcia,Technology,Accessories,Wireless Mouse,West,Seattle,4,101.97,0.0,41.26
+ORD-2023-00587,2023-12-04,CUST-1023,Susan Clark,Technology,Accessories,Wireless Mouse,West,Seattle,2,38.84,0.2,7.37
+ORD-2023-00588,2023-12-05,CUST-1095,William Clark,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Philadelphia,7,58.36,0.05,20.36
+ORD-2023-00589,2023-12-06,CUST-1164,Brian Rodriguez,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Diego,3,22.17,0.1,7.0
+ORD-2023-00590,2023-12-06,CUST-1194,Sandra Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Chicago,5,39.81,0.1,13.17
+ORD-2023-00591,2023-12-07,CUST-1064,Andrew Martinez,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Miami,8,54.73,0.2,13.6
+ORD-2023-00592,2023-12-08,CUST-1206,Richard Clark,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Minneapolis,1,8.27,0.0,3.52
+ORD-2023-00593,2023-12-08,CUST-1037,Amanda Jones,Furniture,Chairs,Ergonomic Office Chair,Central,Houston,1,165.92,0.15,19.25
+ORD-2023-00594,2023-12-11,CUST-1002,Kevin Williams,Furniture,Chairs,Ergonomic Office Chair,East,Washington,1,188.82,0.05,42.7
+ORD-2023-00595,2023-12-13,CUST-1105,Betty Jones,Furniture,Chairs,Ergonomic Office Chair,South,Atlanta,1,152.7,0.2,7.54
+ORD-2023-00596,2023-12-14,CUST-1232,Melissa Lewis,Furniture,Chairs,Ergonomic Office Chair,West,San Diego,3,583.5,0.0,123.53
+ORD-2023-00597,2023-12-16,CUST-1226,Sarah King,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,4,814.82,0.0,214.88
+ORD-2023-00598,2023-12-18,CUST-1007,Daniel Miller,Furniture,Furnishings,LED Desk Lamp,West,Portland,1,33.95,0.0,10.76
+ORD-2023-00599,2023-12-18,CUST-1008,Robert Walker,Furniture,Chairs,Ergonomic Office Chair,East,Philadelphia,3,289.13,0.5,-64.13
+ORD-2023-00600,2023-12-19,CUST-1159,Mary Hall,Furniture,Furnishings,LED Desk Lamp,Central,Houston,2,67.91,0.0,26.05
+ORD-2023-00601,2023-12-19,CUST-1063,Elizabeth Lee,Technology,Accessories,Wireless Mouse,Central,Denver,5,118.28,0.05,42.69
+ORD-2023-00602,2023-12-20,CUST-1133,Matthew Young,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Charlotte,3,467.73,0.0,80.42
+ORD-2023-00603,2023-12-22,CUST-1119,Richard Taylor,Furniture,Chairs,Ergonomic Office Chair,South,New Orleans,6,976.03,0.1,98.17
+ORD-2023-00604,2023-12-22,CUST-1226,Sarah King,Technology,Accessories,USB-C Hub 7-in-1,Central,Denver,2,75.45,0.05,22.92
+ORD-2023-00605,2023-12-22,CUST-1119,Richard Taylor,Technology,Phones,Wireless Earbuds Pro,South,New Orleans,2,235.93,0.0,63.89
+ORD-2023-00606,2023-12-23,CUST-1254,Kevin Allen,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,2,12.26,0.05,4.27
+ORD-2023-00607,2023-12-24,CUST-1044,William Williams,Office Supplies,Binders,Heavy Duty Binder 3-Ring,South,Miami,5,32.46,0.0,12.95
+ORD-2023-00608,2023-12-25,CUST-1217,Paul Thomas,Office Supplies,Art,Marker Set 24 Colors,East,Philadelphia,2,23.91,0.0,9.33
+ORD-2023-00609,2023-12-25,CUST-1109,Melissa Taylor,Furniture,Chairs,Ergonomic Office Chair,South,Orlando,1,188.96,0.0,31.71
+ORD-2023-00610,2023-12-25,CUST-1221,Carol Hernandez,Office Supplies,Paper,Premium Notebook Pack,South,Atlanta,1,6.92,0.5,-0.08
+ORD-2023-00611,2023-12-25,CUST-1088,George Taylor,Technology,Phones,Smartphone X200,South,Atlanta,1,609.52,0.0,77.53
+ORD-2023-00612,2023-12-25,CUST-1119,Richard Taylor,Office Supplies,Paper,Premium Notebook Pack,South,New Orleans,1,13.94,0.0,6.12
+ORD-2023-00613,2023-12-26,CUST-1024,Anthony Johnson,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,New York,6,53.63,0.0,23.79
+ORD-2023-00614,2023-12-27,CUST-1174,Paul Taylor,Technology,Accessories,Mechanical Keyboard,West,Portland,3,196.8,0.2,30.8
+ORD-2023-00615,2023-12-30,CUST-1094,James Lee,Furniture,Furnishings,Wall Clock Classic,Central,Chicago,2,21.9,0.5,-1.68
+ORD-2023-00616,2023-12-31,CUST-1096,Lisa Harris,Office Supplies,Paper,Premium Notebook Pack,South,Orlando,2,29.41,0.0,13.75
+ORD-2023-00617,2023-12-31,CUST-1131,Brian Brown,Office Supplies,Binders,Binder Dividers Set,West,San Diego,4,13.0,0.2,4.06
+ORD-2024-00618,2024-01-01,CUST-1168,Joshua King,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Denver,4,25.49,0.0,10.46
+ORD-2024-00619,2024-01-01,CUST-1174,Paul Taylor,Furniture,Furnishings,Wall Clock Classic,West,Portland,2,30.5,0.3,3.08
+ORD-2024-00620,2024-01-01,CUST-1203,Thomas Lopez,Furniture,Furnishings,Wall Clock Classic,East,Philadelphia,2,43.22,0.0,15.15
+ORD-2024-00621,2024-01-03,CUST-1169,Michelle Thompson,Furniture,Chairs,Mesh Task Chair,Central,Houston,1,76.3,0.4,-12.6
+ORD-2024-00622,2024-01-04,CUST-1153,Carol Lee,Furniture,Chairs,Ergonomic Office Chair,East,Boston,1,142.99,0.2,15.59
+ORD-2024-00623,2024-01-05,CUST-1165,James Smith,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Charlotte,8,67.15,0.0,29.84
+ORD-2024-00624,2024-01-08,CUST-1228,Linda Davis,Technology,Monitors,27-inch 4K Monitor,South,Miami,2,743.39,0.0,115.88
+ORD-2024-00625,2024-01-09,CUST-1048,Paul Lee,Furniture,Furnishings,Wall Clock Classic,West,Portland,2,36.95,0.15,7.92
+ORD-2024-00626,2024-01-09,CUST-1087,Jennifer Thomas,Furniture,Tables,Conference Table 6ft,Central,Dallas,1,302.68,0.3,-41.25
+ORD-2024-00627,2024-01-10,CUST-1096,Lisa Harris,Office Supplies,Paper,Premium Notebook Pack,South,Orlando,1,12.96,0.1,4.42
+ORD-2024-00628,2024-01-15,CUST-1095,William Clark,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Philadelphia,2,16.82,0.0,7.47
+ORD-2024-00629,2024-01-15,CUST-1020,,Furniture,Chairs,Ergonomic Office Chair,East,Washington,2,293.4,0.2,4.58
+ORD-2024-00630,2024-01-16,CUST-1161,Mark Williams,Furniture,Tables,Standing Desk Adjustable,South,New Orleans,1,315.21,0.0,48.48
+ORD-2024-00631,2024-01-16,CUST-1238,Melissa Jones,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,3,349.57,0.4,-43.0
+ORD-2024-00632,2024-01-17,CUST-1123,Jessica Lopez,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,San Diego,4,499.73,0.2,-20.05
+ORD-2024-00633,2024-01-19,CUST-1160,Melissa Smith,Office Supplies,Art,Marker Set 24 Colors,Central,Minneapolis,4,38.26,0.2,9.78
+ORD-2024-00634,2024-01-20,CUST-1158,Donna Moore,Furniture,Tables,Standing Desk Adjustable,South,Miami,1,305.06,0.05,35.23
+ORD-2024-00635,2024-01-22,CUST-1233,Melissa Harris,Furniture,Tables,Standing Desk Adjustable,South,Nashville,1,287.06,0.15,0.25
+ORD-2024-00636,2024-01-23,CUST-1231,Michael White,Office Supplies,Storage,Steel Filing Cabinet,Central,Minneapolis,1,146.37,0.0,15.82
+ORD-2024-00637,2024-01-23,CUST-1158,Donna Moore,Office Supplies,Paper,Premium Notebook Pack,South,Miami,4,49.15,0.15,14.71
+ORD-2024-00638,2024-01-24,CUST-1251,Lisa Smith,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Diego,3,17.34,0.15,4.53
+ORD-2024-00639,2024-01-24,CUST-1097,Andrew Martin,Office Supplies,Paper,Premium Notebook Pack,West,San Francisco,1,12.46,0.1,4.68
+ORD-2024-00640,2024-01-25,CUST-1048,Paul Lee,Office Supplies,Paper,Premium Notebook Pack,Central,Houston,3,32.02,0.2,10.43
+ORD-2024-00641,2024-01-25,CUST-1149,Linda Moore,Technology,Accessories,USB-C Hub 7-in-1,South,Atlanta,5,192.35,0.0,71.7
+ORD-2024-00642,2024-01-25,CUST-1071,Michael Hall,Technology,Copiers,Laser Copier Pro,Central,Denver,2,1630.22,0.1,189.64
+ORD-2024-00643,2024-01-26,CUST-1038,Karen Jones,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,6,1044.8,0.05,258.98
+ORD-2024-00644,2024-01-28,CUST-1224,Kevin Lopez,Furniture,Furnishings,Wall Clock Classic,West,San Francisco,4,59.05,0.3,5.19
+ORD-2024-00645,2024-01-29,CUST-1118,Donna Harris,Technology,Accessories,Mechanical Keyboard,West,Los Angeles,1,79.82,0.0,22.7
+ORD-2024-00646,2024-01-30,CUST-1182,Sandra Anderson,Furniture,Chairs,Ergonomic Office Chair,East,Charlotte,8,1497.13,0.0,357.77
+ORD-2024-00647,2024-01-31,CUST-1256,Carol Walker,Office Supplies,Paper,Premium Notebook Pack,South,Atlanta,2,27.75,0.0,14.06
+ORD-2024-00648,2024-02-01,CUST-1230,Betty Moore,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,New York,1,6.94,0.0,2.87
+ORD-2024-00649,2024-02-03,CUST-1032,Steven Brown,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Houston,6,27.69,0.3,3.53
+ORD-2024-00650,2024-02-04,CUST-1250,James Young,Furniture,Tables,Conference Table 6ft,East,New York,1,432.67,0.0,53.13
+ORD-2024-00651,2024-02-05,CUST-1110,Kevin Moore,Furniture,Furnishings,LED Desk Lamp,East,New York,2,54.02,0.2,12.63
+ORD-2024-00652,2024-02-10,CUST-1003,Lisa King,Furniture,Chairs,Mesh Task Chair,Central,Minneapolis,1,132.85,0.0,22.38
+ORD-2024-00653,2024-02-11,CUST-1109,Melissa Taylor,Technology,Accessories,USB-C Hub 7-in-1,South,Orlando,3,117.32,0.0,35.65
+ORD-2024-00654,2024-02-11,CUST-1258,Joshua Moore,Furniture,Tables,Conference Table 6ft,East,Charlotte,3,1102.15,0.2,-111.08
+ORD-2024-00655,2024-02-12,CUST-1194,Sandra Taylor,Office Supplies,Binders,Binder Dividers Set,West,San Francisco,1,4.29,0.0,2.16
+ORD-2024-00656,2024-02-13,CUST-1197,Elizabeth Martinez,Technology,Accessories,Wireless Mouse,Central,Dallas,1,23.76,0.05,6.53
+ORD-2024-00657,2024-02-15,CUST-1091,Emily Wilson,Furniture,Chairs,Ergonomic Office Chair,South,Miami,3,563.09,0.0,111.09
+ORD-2024-00658,2024-02-16,CUST-1090,Sandra Walker,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,New York,7,40.41,0.1,11.85
+ORD-2024-00659,2024-02-16,CUST-1229,Ashley Anderson,Technology,Phones,Wireless Earbuds Pro,West,Los Angeles,4,467.99,0.0,136.09
+ORD-2024-00660,2024-02-19,CUST-1225,Michelle Taylor,Technology,Accessories,USB-C Hub 7-in-1,East,New York,10,410.01,0.0,162.17
+ORD-2024-00661,2024-02-19,CUST-1117,Betty Clark,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Minneapolis,1,153.87,0.05,14.75
+ORD-2024-00662,2024-02-21,CUST-1179,William Lee,Furniture,Tables,Conference Table 6ft,West,Seattle,2,749.53,0.2,-80.39
+ORD-2024-00663,2024-02-21,CUST-1091,Emily Wilson,Office Supplies,Art,Marker Set 24 Colors,South,Miami,4,42.83,0.1,15.77
+ORD-2024-00664,2024-02-21,CUST-1208,James Thompson,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,5,19.17,0.4,0.89
+ORD-2024-00665,2024-02-24,CUST-1116,Brian Davis,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Denver,4,15.29,0.4,0.36
+ORD-2024-00666,2024-02-25,CUST-1007,Daniel Miller,Office Supplies,Paper,Premium Notebook Pack,West,Portland,3,35.37,0.15,10.3
+ORD-2024-00667,2024-02-26,CUST-1037,Amanda Jones,Furniture,Chairs,Ergonomic Office Chair,South,New Orleans,2,369.37,0.0,89.1
+ORD-2024-00668,2024-03-02,CUST-1103,Richard Martinez,Furniture,Chairs,Ergonomic Office Chair,East,Charlotte,2,373.45,0.0,77.75
+ORD-2024-00669,2024-03-02,CUST-1147,George Jones,Furniture,Tables,Standing Desk Adjustable,South,Nashville,4,1320.9,0.0,233.06
+ORD-2024-00670,2024-03-03,CUST-1093,Karen Thomas,Furniture,Furnishings,LED Desk Lamp,Central,Denver,9,277.03,0.1,79.54
+ORD-2024-00671,2024-03-03,CUST-1048,Paul Lee,Furniture,Chairs,Ergonomic Office Chair,Central,Houston,2,298.23,0.2,4.06
+ORD-2024-00672,2024-03-07,CUST-1175,Matthew Johnson,Furniture,Chairs,Ergonomic Office Chair,West,Los Angeles,1,176.8,0.0,49.6
+ORD-2024-00673,2024-03-07,CUST-1039,Ashley Martin,Office Supplies,Paper,Premium Notebook Pack,West,Portland,1,14.42,0.0,6.71
+ORD-2024-00674,2024-03-08,CUST-1051,Linda Thomas,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,San Diego,2,281.27,0.1,33.71
+ORD-2024-00675,2024-03-10,CUST-1124,Jessica Anderson,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Dallas,3,20.42,0.0,8.44
+ORD-2024-00676,2024-03-10,CUST-1226,Sarah King,Technology,Monitors,27-inch 4K Monitor,Central,Denver,2,683.2,0.1,75.45
+ORD-2024-00677,2024-03-12,CUST-1141,Elizabeth Jackson,Office Supplies,Binders,Heavy Duty Binder 3-Ring,South,New Orleans,2,9.44,0.3,1.66
+ORD-2024-00678,2024-03-13,CUST-1144,Andrew Miller,Technology,Accessories,Wireless Mouse,West,San Diego,3,73.81,0.0,26.48
+ORD-2024-00679,2024-03-13,CUST-1096,Lisa Harris,Technology,Accessories,Mechanical Keyboard,Central,Denver,1,75.9,0.0,22.67
+ORD-2024-00680,2024-03-13,CUST-1163,Kevin Clark,Office Supplies,Binders,Binder Dividers Set,East,New York,4,16.71,0.0,7.28
+ORD-2024-00681,2024-03-15,CUST-1233,Melissa Harris,Technology,Accessories,USB-C Hub 7-in-1,South,Nashville,1,36.14,0.1,10.48
+ORD-2024-00682,2024-03-16,CUST-1040,Patricia Hernandez,Technology,Accessories,Wireless Mouse,South,Miami,9,175.84,0.15,44.09
+ORD-2024-00683,2024-03-17,CUST-1119,Richard Taylor,Office Supplies,Binders,Binder Dividers Set,South,New Orleans,5,19.72,0.05,7.36
+ORD-2024-00684,2024-03-18,CUST-1038,Karen Jones,Technology,Phones,Smartphone X200,West,San Francisco,1,644.06,0.0,101.04
+ORD-2024-00685,2024-03-22,CUST-1225,Michelle Taylor,Furniture,Chairs,Mesh Task Chair,East,Boston,2,265.04,0.0,51.33
+ORD-2024-00686,2024-03-22,CUST-1095,William Clark,Office Supplies,Art,Marker Set 24 Colors,South,Atlanta,1,11.81,0.05,4.39
+ORD-2024-00687,2024-03-22,CUST-1174,Paul Taylor,Furniture,Furnishings,LED Desk Lamp,West,Portland,6,176.71,0.1,51.65
+ORD-2024-00688,2024-03-25,CUST-1074,Steven Wilson,Office Supplies,Paper,Premium Notebook Pack,South,Atlanta,2,24.17,0.1,10.12
+ORD-2024-00689,2024-03-27,CUST-1038,Karen Jones,Furniture,Tables,Standing Desk Adjustable,West,San Francisco,1,300.05,0.1,15.53
+ORD-2024-00690,2024-03-27,CUST-1071,Michael Hall,Furniture,Chairs,Mesh Task Chair,Central,Denver,2,207.66,0.2,9.99
+ORD-2024-00691,2024-03-31,CUST-1028,Richard Martin,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,4,349.58,0.3,-8.58
+ORD-2024-00692,2024-04-08,CUST-1213,Jessica Williams,Office Supplies,Paper,Premium Notebook Pack,Central,Chicago,1,14.35,0.0,6.82
+ORD-2024-00693,2024-04-12,CUST-1096,Lisa Harris,Furniture,Furnishings,LED Desk Lamp,South,Orlando,7,247.21,0.0,99.61
+ORD-2024-00694,2024-04-12,CUST-1011,Andrew Garcia,Furniture,Chairs,Ergonomic Office Chair,West,Seattle,1,183.6,0.0,32.24
+ORD-2024-00695,2024-04-13,CUST-1229,Ashley Anderson,Technology,Accessories,Wireless Mouse,West,Los Angeles,2,38.54,0.2,8.08
+ORD-2024-00696,2024-04-15,CUST-1135,Karen Clark,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Denver,1,96.94,0.4,-20.18
+ORD-2024-00697,2024-04-16,CUST-1196,Matthew Harris,Furniture,Chairs,Mesh Task Chair,Central,Houston,1,117.43,0.1,17.63
+ORD-2024-00698,2024-04-18,CUST-1121,Elizabeth Davis,Technology,Accessories,Wireless Mouse,East,,1,24.3,0.0,7.04
+ORD-2024-00699,2024-04-18,CUST-1048,Paul Lee,Office Supplies,Art,Marker Set 24 Colors,CENTRAL,Chicago,3,24.47,0.3,3.44
+ORD-2024-00700,2024-04-18,CUST-1002,Kevin Williams,Furniture,Chairs,Mesh Task Chair,East,Washington,1,134.38,0.0,22.68
+ORD-2024-00701,2024-04-19,CUST-1212,Jennifer Taylor,Technology,Accessories,Wireless Mouse,West,Seattle,1,24.3,0.0,8.36
+ORD-2024-00702,2024-04-20,CUST-1125,Elizabeth Rodriguez,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Orlando,2,17.34,0.0,6.52
+ORD-2024-00703,2024-04-20,CUST-1185,Amanda Rodriguez,Office Supplies,Paper,Premium Notebook Pack,West,San Diego,1,12.32,0.1,4.92
+ORD-2024-00704,2024-04-21,CUST-1248,Emily Lopez,Technology,Accessories,Mechanical Keyboard,East,Charlotte,1,78.06,0.0,27.02
+ORD-2024-00705,2024-04-29,CUST-1210,Michelle Allen,Furniture,Chairs,Mesh Task Chair,West,Portland,2,261.01,0.0,45.49
+ORD-2024-00706,2024-05-01,CUST-1232,Melissa Lewis,Furniture,Furnishings,Wall Clock Classic,West,San Diego,6,119.38,0.1,29.49
+ORD-2024-00707,2024-05-01,CUST-1067,George Martinez,Technology,Phones,Smartphone X200,South,Orlando,1,468.7,0.2,0.75
+ORD-2024-00708,2024-05-02,CUST-1130,David Jackson,Furniture,Bookcases,Wooden Bookcase 5-Shelf,South,Orlando,1,145.54,0.05,16.36
+ORD-2024-00709,2024-05-04,CUST-1139,Nancy Anderson,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Diego,8,55.76,0.2,16.15
+ORD-2024-00710,2024-05-05,CUST-1019,Karen Lewis,Office Supplies,Paper,Premium Notebook Pack,West,Portland,4,57.18,0.05,22.67
+ORD-2024-00711,2024-05-07,CUST-1006,Sandra Wilson,Furniture,Furnishings,LED Desk Lamp,West,Portland,2,63.66,0.05,19.51
+ORD-2024-00712,2024-05-08,CUST-1198,Nancy Johnson,Office Supplies,Labels,Shipping Labels 500ct,East,New York,1,9.35,0.0,3.92
+ORD-2024-00713,2024-05-09,CUST-1088,George Taylor,Furniture,Chairs,Ergonomic Office Chair,Central,Houston,5,950.69,0.0,179.65
+ORD-2024-00714,2024-05-13,CUST-1253,Thomas Walker,Office Supplies,Binders,Binder Dividers Set,West,San Diego,2,7.46,0.1,2.92
+ORD-2024-00715,2024-05-14,CUST-1226,Sarah King,Furniture,Chairs,Ergonomic Office Chair,Central,Denver,2,385.35,0.0,92.72
+ORD-2024-00716,2024-05-16,CUST-1221,Carol Hernandez,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,Portland,2,305.15,0.0,46.48
+ORD-2024-00717,2024-05-16,CUST-1012,Mary Moore,Technology,Accessories,Wireless Mouse,Central,Chicago,6,114.64,0.2,24.18
+ORD-2024-00718,2024-05-17,CUST-1002,Kevin Williams,Furniture,Furnishings,LED Desk Lamp,East,Boston,1,32.63,0.0,12.41
+ORD-2024-00719,2024-05-18,CUST-1204,Mark Thompson,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,2,269.97,0.0,42.0
+ORD-2024-00720,2024-05-18,CUST-1231,Michael White,Furniture,Furnishings,LED Desk Lamp,Central,Minneapolis,5,154.11,0.1,49.2
+ORD-2024-00721,2024-05-22,CUST-1103,Richard Martinez,Office Supplies,Storage,Stackable File Box,East,Charlotte,10,94.35,0.5,-13.92
+ORD-2024-00722,2024-05-23,CUST-1200,Susan Moore,Technology,Monitors,27-inch 4K Monitor,East,Philadelphia,2,580.09,0.2,2.77
+ORD-2024-00723,2024-05-23,CUST-1103,Richard Martinez,Furniture,Furnishings,Wall Clock Classic,East,Charlotte,2,39.02,0.15,9.56
+ORD-2024-00724,2024-05-24,CUST-1034,Joshua Martinez,Office Supplies,Art,Marker Set 24 Colors,East,New York,2,23.38,0.0,9.29
+ORD-2024-00725,2024-05-25,CUST-1216,Elizabeth Garcia,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,4,549.0,0.3,-0.54
+ORD-2024-00726,2024-05-25,CUST-1246,John Allen,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Minneapolis,2,17.17,0.0,7.97
+ORD-2024-00727,2024-05-25,CUST-1176,Mary Miller,Office Supplies,Storage,Steel Filing Cabinet,Central,Denver,1,143.38,0.0,18.07
+ORD-2024-00728,2024-05-26,CUST-1138,Michael Brown,Furniture,Tables,Conference Table 6ft,West,Seattle,1,361.29,0.2,-21.21
+ORD-2024-00729,2024-05-27,CUST-1108,Ashley Lewis,Office Supplies,Paper,Premium Notebook Pack,South,Orlando,7,91.02,0.0,39.39
+ORD-2024-00730,2024-05-27,CUST-1134,George Garcia,Office Supplies,Binders,Binder Dividers Set,West,San Francisco,7,30.25,0.0,13.12
+ORD-2024-00731,2024-05-28,CUST-1250,James Young,Furniture,Tables,Standing Desk Adjustable,Central,Denver,2,620.03,0.05,64.54
+ORD-2024-00732,2024-05-29,CUST-1174,Paul Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,2,16.69,0.0,7.12
+ORD-2024-00733,2024-05-29,CUST-1060,James Hernandez,Furniture,Tables,Conference Table 6ft,South,New Orleans,2,865.31,0.0,94.34
+ORD-2024-00734,2024-05-30,CUST-1172,Sandra Williams,Office Supplies,Paper,Premium Notebook Pack,East,Charlotte,2,26.74,0.0,9.92
+ORD-2024-00735,2024-05-30,CUST-1111,Carol Davis,Office Supplies,Binders,Binder Dividers Set,East,Washington,2,8.28,0.0,3.75
+ORD-2024-00736,2024-05-30,CUST-1197,Elizabeth Martinez,Technology,Accessories,Wireless Mouse,Central,Dallas,1,19.44,0.2,3.96
+ORD-2024-00737,2024-05-31,CUST-1102,Betty Hernandez,Technology,Accessories,Wireless Mouse,Central,Chicago,1,21.34,0.1,5.61
+ORD-2024-00738,2024-05-31,CUST-1058,Daniel Lewis,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,San Francisco,2,274.12,0.15,11.18
+ORD-2024-00739,2024-06-01,CUST-1132,Patricia Martin,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Washington,5,29.55,0.3,6.23
+ORD-2024-00740,2024-06-01,CUST-1075,Emily Harris,Office Supplies,Binders,Binder Dividers Set,East,New York,5,20.69,0.0,8.2
+ORD-2024-00741,2024-06-02,CUST-1232,Melissa Lewis,Furniture,Furnishings,Wall Clock Classic,West,,1,22.42,0.0,7.47
+ORD-2024-00742,2024-06-04,CUST-1072,Carol Miller,Furniture,Tables,Standing Desk Adjustable,West,Portland,1,339.71,0.0,57.14
+ORD-2024-00743,2024-06-04,CUST-1028,Richard Martin,Furniture,Chairs,Ergonomic Office Chair,West,Los Angeles,7,1091.74,0.15,62.17
+ORD-2024-00744,2024-06-05,CUST-1178,Melissa Jackson,Furniture,Chairs,Mesh Task Chair,Central,Houston,2,235.53,0.05,37.0
+ORD-2024-00745,2024-06-06,CUST-1176,Mary Miller,Technology,Accessories,USB-C Hub 7-in-1,Central,Denver,3,119.99,0.0,40.77
+ORD-2024-00746,2024-06-08,CUST-1170,Mary Anderson,Furniture,Furnishings,Wall Clock Classic,East,Philadelphia,1,15.36,0.3,1.27
+ORD-2024-00747,2024-06-09,CUST-1206,Richard Clark,Furniture,Chairs,Mesh Task Chair,Central,Minneapolis,2,264.44,0.0,50.87
+ORD-2024-00748,2024-06-09,CUST-1010,George Anderson,Technology,Accessories,USB-C Hub 7-in-1,Central,Denver,3,99.46,0.15,22.06
+ORD-2024-00749,2024-06-10,CUST-1147,George Jones,Furniture,Bookcases,Wooden Bookcase 5-Shelf,South,Nashville,8,1194.57,0.05,123.1
+ORD-2024-00750,2024-06-10,CUST-1257,Ashley Hernandez,Furniture,Tables,Standing Desk Adjustable,Central,Houston,1,269.99,0.2,-18.89
+ORD-2024-00751,2024-06-10,CUST-1027,Anthony Moore,Office Supplies,Storage,Stackable File Box,West,San Diego,3,56.76,0.0,13.82
+ORD-2024-00752,2024-06-12,CUST-1226,Sarah King,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Denver,1,138.34,0.1,8.66
+ORD-2024-00753,2024-06-13,CUST-1074,Steven Wilson,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,Philadelphia,4,29.8,0.1,9.5
+ORD-2024-00754,2024-06-15,CUST-1204,Mark Thompson,Furniture,Tables,Standing Desk Adjustable,West,Los Angeles,1,271.38,0.2,-13.07
+ORD-2024-00755,2024-06-15,CUST-1129,Robert Rodriguez,Furniture,Chairs,Ergonomic Office Chair,Central,Chicago,2,370.9,0.0,77.11
+ORD-2024-00756,2024-06-19,CUST-1014,Jessica Allen,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,1,162.35,0.1,23.11
+ORD-2024-00757,2024-06-20,CUST-1252,Carol Martin,Office Supplies,Labels,Shipping Labels 500ct,East,Philadelphia,1,9.2,0.0,4.18
+ORD-2024-00758,2024-06-21,CUST-1050,Patricia Harris,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Boston,3,426.42,0.1,1.01
+ORD-2024-00759,2024-06-22,CUST-1101,George Brown,Furniture,Chairs,Mesh Task Chair,East,Boston,3,380.46,0.0,65.76
+ORD-2024-00760,2024-06-25,CUST-1245,Robert Lopez,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Philadelphia,7,47.28,0.0,20.5
+ORD-2024-00761,2024-06-25,CUST-1097,Andrew Martin,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,New York,2,11.79,0.3,2.52
+ORD-2024-00762,2024-06-25,CUST-1240,John Rodriguez,Furniture,Chairs,Ergonomic Office Chair,Central,Chicago,3,550.8,0.0,105.15
+ORD-2024-00763,2024-06-25,CUST-1048,Paul Lee,Technology,Accessories,Wireless Mouse,Central,Houston,2,48.81,0.0,16.69
+ORD-2024-00764,2024-06-26,CUST-1046,Richard Lewis,Furniture,Chairs,Ergonomic Office Chair,East,Boston,2,385.06,0.0,69.71
+ORD-2024-00765,2024-06-27,CUST-1046,Richard Lewis,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Boston,3,17.4,0.05,6.21
+ORD-2024-00766,2024-06-28,CUST-1075,Emily Harris,Furniture,Furnishings,Wall Clock Classic,South,New Orleans,3,44.88,0.3,3.48
+ORD-2024-00767,2024-06-29,CUST-1097,Andrew Martin,Office Supplies,Storage,Stackable File Box,West,Los Angeles,1,11.48,0.4,-0.48
+ORD-2024-00768,2024-06-30,CUST-1044,William Williams,Office Supplies,Storage,Steel Filing Cabinet,South,Miami,2,239.42,0.2,-12.54
+ORD-2024-00769,2024-07-01,CUST-1042,William Harris,Office Supplies,Binders,Binder Dividers Set,Central,Denver,1,3.34,0.2,0.79
+ORD-2024-00770,2024-07-02,CUST-1114,Michelle Brown,Technology,Accessories,Mechanical Keyboard,South,Miami,6,316.37,0.3,12.71
+ORD-2024-00771,2024-07-03,CUST-1245,Robert Lopez,Furniture,Chairs,Mesh Task Chair,South,Orlando,5,564.85,0.1,89.4
+ORD-2024-00772,2024-07-03,CUST-1091,Emily Wilson,Furniture,Chairs,Ergonomic Office Chair,South,Miami,2,387.75,0.0,70.64
+ORD-2024-00773,2024-07-04,CUST-1072,Carol Miller,Technology,Accessories,Mechanical Keyboard,West,Portland,4,260.74,0.15,50.57
+ORD-2024-00774,2024-07-08,CUST-1251,Lisa Smith,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Diego,3,19.51,0.0,8.39
+ORD-2024-00775,2024-07-08,CUST-1179,William Lee,Office Supplies,Labels,Shipping Labels 500ct,West,Seattle,3,26.85,0.0,12.47
+ORD-2024-00776,2024-07-09,CUST-1125,Elizabeth Rodriguez,Furniture,Tables,Conference Table 6ft,South,Orlando,4,1552.78,0.1,81.82
+ORD-2024-00777,2024-07-09,CUST-1083,Susan Taylor,Office Supplies,Paper,Premium Notebook Pack,Central,Minneapolis,5,65.0,0.05,28.28
+ORD-2024-00778,2024-07-13,CUST-1105,Betty Jones,Furniture,Chairs,Mesh Task Chair,East,Boston,2,160.58,0.4,-12.28
+ORD-2024-00779,2024-07-13,CUST-1145,Emily Hall,Technology,Monitors,27-inch 4K Monitor,Central,Minneapolis,2,546.96,0.3,-70.03
+ORD-2024-00780,2024-07-15,CUST-1080,Donna Martinez,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Portland,6,34.27,0.1,11.69
+ORD-2024-00781,2024-07-16,CUST-1243,David Moore,Office Supplies,Art,Marker Set 24 Colors,Central,Dallas,1,12.0,0.0,5.18
+ORD-2024-00782,2024-07-17,CUST-1053,Susan Allen,Office Supplies,Paper,Premium Notebook Pack,West,Seattle,9,119.92,0.05,54.34
+ORD-2024-00783,2024-07-17,CUST-1257,Ashley Hernandez,Technology,Monitors,27-inch 4K Monitor,Central,Houston,1,341.06,0.1,20.67
+ORD-2024-00784,2024-07-18,CUST-1121,Elizabeth Davis,Furniture,Chairs,Mesh Task Chair,East,Boston,2,256.33,0.0,66.94
+ORD-2024-00785,2024-07-18,CUST-1222,Nancy Taylor,Furniture,Chairs,Ergonomic Office Chair,South,Orlando,3,550.63,0.05,107.23
+ORD-2024-00786,2024-07-18,CUST-1184,Daniel Brown,Office Supplies,Art,Marker Set 24 Colors,East,New York,1,11.39,0.0,4.3
+ORD-2024-00787,2024-07-19,CUST-1077,Robert Lewis,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Washington,7,38.65,0.15,11.83
+ORD-2024-00788,2024-07-20,CUST-1103,Richard Martinez,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,Charlotte,2,269.42,0.1,34.24
+ORD-2024-00789,2024-07-21,CUST-1096,Lisa Harris,Technology,Accessories,USB-C Hub 7-in-1,South,Orlando,4,137.31,0.1,32.79
+ORD-2024-00790,2024-07-23,CUST-1214,Daniel Allen,Technology,Phones,Wireless Earbuds Pro,East,New York,2,215.49,0.1,41.1
+ORD-2024-00791,2024-07-24,CUST-1073,Daniel Martinez,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Dallas,2,304.38,0.0,63.71
+ORD-2024-00792,2024-07-26,CUST-1215,Elizabeth Allen,Furniture,Chairs,Mesh Task Chair,East,Washington,2,236.91,0.1,25.84
+ORD-2024-00793,2024-07-26,CUST-1253,Thomas Walker,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Dallas,1,6.46,0.0,2.71
+ORD-2024-00794,2024-07-30,CUST-1100,Elizabeth King,Furniture,Tables,Conference Table 6ft,Central,Minneapolis,3,1341.69,0.0,203.79
+ORD-2024-00795,2024-08-02,CUST-1157,James Martinez,Office Supplies,Storage,Stackable File Box,South,Orlando,1,13.3,0.3,0.26
+ORD-2024-00796,2024-08-03,CUST-1063,Elizabeth Lee,Furniture,Furnishings,Wall Clock Classic,Central,Denver,2,44.18,0.0,14.61
+ORD-2024-00797,2024-08-03,CUST-1106,James White,Furniture,Furnishings,LED Desk Lamp,East,New York,5,153.35,0.15,32.65
+ORD-2024-00798,2024-08-04,CUST-1136,Amanda Williams,Technology,Accessories,Mechanical Keyboard,West,San Francisco,1,74.03,0.05,19.49
+ORD-2024-00799,2024-08-05,CUST-1065,Elizabeth Johnson,Technology,Monitors,27-inch 4K Monitor,West,Seattle,1,359.71,0.0,59.15
+ORD-2024-00800,2024-08-05,CUST-1253,Thomas Walker,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,San Diego,3,24.91,0.0,11.58
+ORD-2024-00801,2024-08-05,CUST-1106,James White,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,New York,2,10.69,0.2,2.75
+ORD-2024-00802,2024-08-07,CUST-1177,Thomas Garcia,Furniture,Chairs,Mesh Task Chair,East,Washington,7,833.25,0.1,55.15
+ORD-2024-00803,2024-08-08,CUST-1161,Mark Williams,Technology,Accessories,USB-C Hub 7-in-1,East,New York,6,215.38,0.1,41.56
+ORD-2024-00804,2024-08-09,CUST-1258,Joshua Moore,Technology,Accessories,USB-C Hub 7-in-1,East,Charlotte,7,276.07,0.0,101.17
+ORD-2024-00805,2024-08-11,CUST-1017,Amanda Anderson,Furniture,Furnishings,LED Desk Lamp,Central,Minneapolis,1,30.0,0.15,8.94
+ORD-2024-00806,2024-08-12,CUST-1061,Lisa Jones,Office Supplies,Labels,Shipping Labels 500ct,West,San Francisco,3,27.44,0.0,12.07
+ORD-2024-00807,2024-08-13,CUST-1174,Paul Taylor,Technology,Accessories,USB-C Hub 7-in-1,Central,Denver,1,33.85,0.15,5.79
+ORD-2024-00808,2024-08-14,CUST-1184,Daniel Brown,Technology,Monitors,27-inch 4K Monitor,East,New York,1,296.53,0.2,-11.77
+ORD-2024-00809,2024-08-14,CUST-1157,James Martinez,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Orlando,2,17.31,0.0,7.51
+ORD-2024-00810,2024-08-15,CUST-1061,Lisa Jones,Furniture,Furnishings,LED Desk Lamp,West,San Francisco,7,226.78,0.05,67.71
+ORD-2024-00811,2024-08-16,CUST-1174,Paul Taylor,Furniture,Furnishings,Wall Clock Classic,West,Portland,1,22.82,0.0,7.88
+ORD-2024-00812,2024-08-16,CUST-1192,Steven Martin,Office Supplies,Paper,A4 Copy Paper 500 sheets,Central,Dallas,4,26.8,0.15,7.18
+ORD-2024-00813,2024-08-16,CUST-1083,Susan Taylor,Technology,Accessories,Mechanical Keyboard,Central,Minneapolis,2,155.78,0.0,49.27
+ORD-2024-00814,2024-08-16,CUST-1110,Kevin Moore,Furniture,Bookcases,Wooden Bookcase 5-Shelf,East,New York,3,465.62,0.0,93.51
+ORD-2024-00815,2024-08-20,CUST-1177,Thomas Garcia,Furniture,Chairs,Mesh Task Chair,East,Washington,5,597.74,0.05,90.38
+ORD-2024-00816,2024-08-20,CUST-1048,Paul Lee,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Houston,5,32.94,0.0,14.67
+ORD-2024-00817,2024-08-21,CUST-1152,George Wilson,Furniture,Chairs,Mesh Task Chair,South,Miami,2,205.65,0.2,5.93
+ORD-2024-00818,2024-08-22,CUST-1016,Nancy Martinez,Furniture,Chairs,Ergonomic Office Chair,East,Boston,5,954.91,0.0,180.9
+ORD-2024-00819,2024-08-23,CUST-1037,Amanda Jones,Office Supplies,Storage,Stackable File Box,East,New York,1,13.93,0.3,0.14
+ORD-2024-00820,2024-08-23,CUST-1038,Karen Jones,Technology,Monitors,27-inch 4K Monitor, west ,San Francisco,1,352.63,0.05,33.82
+ORD-2024-00821,2024-08-24,CUST-1170,Mary Anderson,Furniture,Furnishings,Wall Clock Classic,East,Philadelphia,4,70.06,0.2,12.2
+ORD-2024-00822,2024-08-26,CUST-1035,John Williams,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Minneapolis,1,6.26,0.0,2.84
+ORD-2024-00823,2024-08-26,CUST-1152,George Wilson,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Miami,2,16.42,0.05,5.92
+ORD-2024-00824,2024-08-27,CUST-1194,Sandra Taylor,Office Supplies,Paper,Premium Notebook Pack,Central,Denver,2,26.57,0.0,12.35
+ORD-2024-00825,2024-08-28,CUST-1215,Elizabeth Allen,Technology,Accessories,USB-C Hub 7-in-1,East,Washington,4,106.2,0.3,13.07
+ORD-2024-00826,2024-08-29,CUST-1077,Robert Lewis,Office Supplies,Binders,Binder Dividers Set,East,Washington,5,12.18,0.4,0.82
+ORD-2024-00827,2024-08-29,CUST-1072,Carol Miller,Furniture,Chairs,Ergonomic Office Chair,West,Portland,3,358.33,0.4,-33.26
+ORD-2024-00828,2024-08-31,CUST-1250,James Young,Furniture,Tables,Conference Table 6ft,Central,Houston,1,316.64,0.3,-48.33
+ORD-2024-00829,2024-09-01,CUST-1107,Michelle Johnson,Technology,Phones,Smartphone X200,West,Seattle,1,462.26,0.2,-9.23
+ORD-2024-00830,2024-09-01,CUST-1007,Daniel Miller,Technology,Accessories,Wireless Mouse,West,Portland,3,69.96,0.0,22.8
+ORD-2024-00831,2024-09-02,CUST-1043,William White,Furniture,Chairs,Ergonomic Office Chair,Central,Chicago,1,112.71,0.4,-13.0
+ORD-2024-00832,2024-09-04,CUST-1174,Paul Taylor,Technology,Accessories,Mechanical Keyboard,West,Portland,5,355.01,0.1,77.71
+ORD-2024-00833,2024-09-05,CUST-1137,Robert Williams,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Los Angeles,2,13.87,0.2,3.67
+ORD-2024-00834,2024-09-06,CUST-1204,Mark Thompson,Furniture,Tables,Conference Table 6ft,West,Los Angeles,2,917.18,0.0,102.91
+ORD-2024-00835,2024-09-08,CUST-1199,Kevin Walker,Office Supplies,Paper,Premium Notebook Pack,East,New York,7,100.47,0.0,42.18
+ORD-2024-00836,2024-09-08,CUST-1103,Richard Martinez,Technology,Accessories,USB-C Hub 7-in-1,East,Charlotte,3,119.13,0.0,37.38
+ORD-2024-00837,2024-09-09,CUST-1005,Matthew Lopez,Furniture,Chairs,Ergonomic Office Chair,South,Orlando,1,167.05,0.1,25.39
+ORD-2024-00838,2024-09-10,CUST-1245,Robert Lopez,Furniture,Tables,Conference Table 6ft,Central,Dallas,1,270.39,0.4,-57.37
+ORD-2024-00839,2024-09-10,CUST-1044,William Williams,Technology,Accessories,USB-C Hub 7-in-1,South,Miami,1,37.22,0.1,10.08
+ORD-2024-00840,2024-09-11,CUST-1215,Elizabeth Allen,Furniture,Chairs,Mesh Task Chair,East,Washington,4,409.87,0.2,9.61
+ORD-2024-00841,2024-09-12,CUST-1048,Paul Lee,Furniture,Chairs,Ergonomic Office Chair,East,Washington,1,198.26,0.0,51.2
+ORD-2024-00842,2024-09-12,CUST-1001,Patricia Clark,Furniture,Chairs,Mesh Task Chair,West,Seattle,8,1031.03,0.0,168.31
+ORD-2024-00843,2024-09-12,CUST-1189,Susan Wilson,Office Supplies,Paper,Premium Notebook Pack,West,Los Angeles,3,36.84,0.1,11.87
+ORD-2024-00844,2024-09-13,CUST-1174,Paul Taylor,Furniture,Chairs,Mesh Task Chair,West,Portland,2,189.87,0.3,-22.89
+ORD-2024-00845,2024-09-13,CUST-1060,James Hernandez,Technology,Accessories,Wireless Mouse,SOUTH,New Orleans,2,34.48,0.3,3.09
+ORD-2024-00846,2024-09-15,CUST-1244,Brian Anderson,Office Supplies,Binders,Binder Dividers Set,East,Charlotte,2,5.11,0.4,0.44
+ORD-2024-00847,2024-09-16,CUST-1165,James Smith,Furniture,Tables,Standing Desk Adjustable,East,Charlotte,1,296.35,0.1,33.4
+ORD-2024-00848,2024-09-17,CUST-1112,Anthony Young,Furniture,Chairs,Mesh Task Chair,East,Boston,3,350.23,0.1,56.73
+ORD-2024-00849,2024-09-17,CUST-1023,Susan Clark,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,3,22.15,0.1,7.74
+ORD-2024-00850,2024-09-20,CUST-1078,Linda Lopez,Furniture,Chairs,Ergonomic Office Chair,Central,Houston,2,373.55,0.0,89.26
+ORD-2024-00851,2024-09-20,CUST-1184,Daniel Brown,Furniture,Chairs,Mesh Task Chair,East,New York,1,128.66,0.0,28.78
+ORD-2024-00852,2024-09-20,CUST-1184,Daniel Brown,Furniture,Chairs,Mesh Task Chair,Central,Chicago,1,113.02,0.15,9.63
+ORD-2024-00853,2024-09-21,CUST-1231,Michael White,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Minneapolis,5,767.29,0.05,91.22
+ORD-2024-00854,2024-09-21,CUST-1123,Jessica Lopez,Furniture,Chairs,Ergonomic Office Chair,West,San Diego,2,338.43,0.1,48.83
+ORD-2024-00855,2024-09-22,CUST-1018,Paul Williams,Technology,Monitors,27-inch 4K Monitor,Central,Dallas,1,335.07,0.15,25.6
+ORD-2024-00856,2024-09-24,CUST-1246,John Allen,Furniture,Bookcases,Wooden Bookcase 5-Shelf,Central,Houston,2,328.17,0.0,47.49
+ORD-2024-00857,2024-09-24,CUST-1109,Melissa Taylor,Office Supplies,Paper,Premium Notebook Pack,South,Orlando,1,6.88,0.5,-0.06
+ORD-2024-00858,2024-09-25,CUST-1174,Paul Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Portland,6,51.93,0.0,20.58
+ORD-2024-00859,2024-09-26,CUST-1038,Karen Jones,Furniture,Chairs,Mesh Task Chair,West,San Francisco,4,442.52,0.15,52.03
+ORD-2024-00860,2024-09-26,CUST-1200,Susan Moore,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Boston,1,5.21,0.2,1.23
+ORD-2024-00861,2024-09-26,CUST-1132,Patricia Martin,Technology,Phones,Wireless Earbuds Pro,East,Washington,1,116.61,0.0,26.29
+ORD-2024-00862,2024-09-26,CUST-1045,Jennifer Anderson,Furniture,Furnishings,LED Desk Lamp,East,Washington,1,31.5,0.1,11.19
+ORD-2024-00863,2024-09-30,CUST-1107,Michelle Johnson,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Seattle,1,8.13,0.0,3.14
+ORD-2024-00864,2024-10-01,CUST-1181,Thomas Jackson,Technology,Phones,Smartphone X200,Central,Dallas,1,593.23,0.0,95.81
+ORD-2024-00865,2024-10-01,CUST-1127,Daniel Moore,Technology,Phones,Wireless Earbuds Pro,South,Nashville,4,457.68,0.05,101.3
+ORD-2024-00866,2024-10-03,CUST-1097,Andrew Martin,Furniture,Chairs,Ergonomic Office Chair,West,Los Angeles,3,609.11,0.0,130.44
+ORD-2024-00867,2024-10-03,CUST-1141,Elizabeth Jackson,Furniture,Tables,Standing Desk Adjustable,South,New Orleans,2,646.63,0.0,96.84
+ORD-2024-00868,2024-10-03,CUST-1103,Richard Martinez,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Charlotte,5,26.74,0.2,7.34
+ORD-2024-00869,2024-10-03,CUST-1203,Thomas Lopez,Furniture,Furnishings,Wall Clock Classic,East,Philadelphia,1,22.14,0.0,7.91
+ORD-2024-00870,2024-10-04,CUST-1158,Donna Moore,Furniture,Chairs,Mesh Task Chair,South,Miami,1,109.22,0.15,6.3
+ORD-2024-00871,2024-10-05,CUST-1255,Karen Lopez,Technology,Phones,Smartphone X200,East,Boston,1,480.98,0.2,5.26
+ORD-2024-00872,2024-10-06,CUST-1116,Brian Davis,Furniture,Chairs,Mesh Task Chair,Central,Denver,5,608.95,0.0,129.45
+ORD-2024-00873,2024-10-07,CUST-1062,John Lee,Technology,Accessories,USB-C Hub 7-in-1,East,Washington,1,35.41,0.1,7.98
+ORD-2024-00874,2024-10-07,CUST-1221,Carol Hernandez,Technology,Accessories,Wireless Mouse,South,Atlanta,4,80.58,0.1,20.34
+ORD-2024-00875,2024-10-10,CUST-1039,Ashley Martin,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Portland,1,6.5,0.0,2.71
+ORD-2024-00876,2024-10-11,CUST-1007,Daniel Miller,Office Supplies,Paper,Premium Notebook Pack,West,Portland,6,60.85,0.3,9.85
+ORD-2024-00877,2024-10-11,CUST-1250,James Young,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,San Francisco,5,25.61,0.2,5.61
+ORD-2024-00878,2024-10-13,CUST-1171,Ashley Taylor,Furniture,Furnishings,Wall Clock Classic,Central,Houston,5,79.4,0.3,10.66
+ORD-2024-00879,2024-10-13,CUST-1247,Steven Clark,Furniture,Chairs,Mesh Task Chair,South,Orlando,3,373.25,0.0,72.57
+ORD-2024-00880,2024-10-15,CUST-1185,Amanda Rodriguez,Office Supplies,Binders,Binder Dividers Set,West,San Diego,4,16.91,0.0,7.55
+ORD-2024-00881,2024-10-16,CUST-1200,Susan Moore,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Philadelphia,5,28.74,0.1,7.47
+ORD-2024-00882,2024-10-16,CUST-1039,Ashley Martin,Furniture,Chairs,Mesh Task Chair,West,Portland,3,385.84,0.0,94.18
+ORD-2024-00883,2024-10-17,CUST-1048,Paul Lee,Furniture,Tables,Standing Desk Adjustable,Central,Houston,2,603.49,0.1,45.58
+ORD-2024-00884,2024-10-17,CUST-1103,Richard Martinez,Furniture,Furnishings,Wall Clock Classic,East,Charlotte,3,46.07,0.3,4.04
+ORD-2024-00885,2024-10-18,CUST-1080,Donna Martinez,Furniture,Chairs,Ergonomic Office Chair,East,Washington,1,187.67,0.05,39.66
+ORD-2024-00886,2024-10-20,CUST-1129,Robert Rodriguez,Furniture,Chairs,Ergonomic Office Chair,Central,Chicago,1,171.23,0.1,23.9
+ORD-2024-00887,2024-10-20,CUST-1178,Melissa Jackson,Technology,Phones,Smartphone X200,Central,Houston,1,588.9,0.0,99.42
+ORD-2024-00888,2024-10-20,CUST-1048,Paul Lee,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,2,160.22,0.4,-24.02
+ORD-2024-00889,2024-10-22,CUST-1113,James Lopez,Technology,Phones,Wireless Earbuds Pro,West,Portland,2,234.26,0.05,51.4
+ORD-2024-00890,2024-10-22,CUST-1140,Andrew Allen,Furniture,Tables,Standing Desk Adjustable,West,San Diego,2,681.24,0.0,97.23
+ORD-2024-00891,2024-10-24,CUST-1113,James Lopez,Furniture,Furnishings,LED Desk Lamp,West,Portland,4,81.74,0.4,-0.41
+ORD-2024-00892,2024-10-26,CUST-1039,Ashley Martin,Furniture,Tables,Standing Desk Adjustable,Central,Minneapolis,1,317.3,0.0,50.76
+ORD-2024-00893,2024-10-30,CUST-1037,Amanda Jones,Furniture,Chairs,Mesh Task Chair,Central,Houston,4,402.05,0.2,21.6
+ORD-2024-00894,2024-10-30,CUST-1044,William Williams,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Miami,2,16.34,0.0,6.48
+ORD-2024-00895,2024-10-31,CUST-1174,Paul Taylor,Furniture,Furnishings,LED Desk Lamp,West,Portland,1,28.93,0.1,8.53
+ORD-2024-00896,2024-11-01,CUST-1097,Andrew Martin,Office Supplies,Paper,Premium Notebook Pack,West,Los Angeles,2,27.71,0.0,11.9
+ORD-2024-00897,2024-11-01,CUST-1102,Betty Hernandez,Technology,Accessories,Wireless Mouse,Central,Chicago,1,24.2,0.0,9.03
+ORD-2024-00898,2024-11-02,CUST-1166,Mark King,Office Supplies,Storage,Steel Filing Cabinet,East,Charlotte,3,358.45,0.1,5.24
+ORD-2024-00899,2024-11-02,CUST-1072,Carol Miller,Office Supplies,Art,Marker Set 24 Colors,East,New York,2,17.02,0.3,2.72
+ORD-2024-00900,2024-11-03,CUST-1241,George Thomas,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,New Orleans,2,8.41,0.5,-0.44
+ORD-2024-00901,2024-11-04,CUST-1125,Elizabeth Rodriguez,Furniture,Tables,Conference Table 6ft,South,Orlando,1,464.6,0.0,52.83
+ORD-2024-00902,2024-11-04,CUST-1174,Paul Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,New York,8,53.18,0.2,12.87
+ORD-2024-00903,2024-11-06,CUST-1211,David Walker,Office Supplies,Storage,Steel Filing Cabinet,South,Orlando,10,988.51,0.3,-51.63
+ORD-2024-00904,2024-11-06,CUST-1215,Elizabeth Allen,Office Supplies,Labels,Shipping Labels 500ct,East,,1,9.11,0.0,3.84
+ORD-2024-00905,2024-11-06,CUST-1121,Elizabeth Davis,Technology,Accessories,Mechanical Keyboard,East,Boston,6,403.79,0.1,95.11
+ORD-2024-00906,2024-11-06,CUST-1097,Andrew Martin,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,2,259.03,0.0,48.59
+ORD-2024-00907,2024-11-08,CUST-1102,Betty Hernandez,Technology,Monitors,27-inch 4K Monitor,Central,Chicago,3,944.95,0.2,21.81
+ORD-2024-00908,2024-11-08,CUST-1011,Andrew Garcia,Technology,Monitors,27-inch 4K Monitor,West,Seattle,3,1063.13,0.05,186.59
+ORD-2024-00909,2024-11-09,CUST-1096,Lisa Harris,Office Supplies,Binders,Heavy Duty Binder 3-Ring,South,Orlando,3,20.39,0.0,8.44
+ORD-2024-00910,2024-11-09,CUST-1188,Betty Martin,Office Supplies,Storage,Stackable File Box,East,,5,79.49,0.15,12.49
+ORD-2024-00911,2024-11-11,CUST-1097,Andrew Martin,Office Supplies,Paper,A4 Copy Paper 500 sheets,West,Los Angeles,1,8.24,0.0,3.52
+ORD-2024-00912,2024-11-12,CUST-1109,Melissa Taylor,Office Supplies,Paper,Premium Notebook Pack,South,Orlando,3,40.72,0.0,20.25
+ORD-2024-00913,2024-11-12,CUST-1121,Elizabeth Davis,Office Supplies,Binders,Heavy Duty Binder 3-Ring,East,Boston,3,9.58,0.5,-0.29
+ORD-2024-00914,2024-11-12,CUST-1185,Amanda Rodriguez,Office Supplies,Storage,Steel Filing Cabinet,West,San Diego,1,137.2,0.05,14.29
+ORD-2024-00915,2024-11-13,CUST-1097,Andrew Martin,Technology,Monitors,27-inch 4K Monitor,West,Los Angeles,1,304.92,0.2,6.09
+ORD-2024-00916,2024-11-13,CUST-1161,Mark Williams,Technology,Accessories,Wireless Mouse,Central,Minneapolis,2,39.62,0.2,7.34
+ORD-2024-00917,2024-11-13,CUST-1073,Daniel Martinez,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Dallas,1,5.63,0.15,1.68
+ORD-2024-00918,2024-11-13,CUST-1128,Steven Miller,Office Supplies,Storage,Stackable File Box,West,Portland,2,37.21,0.0,12.16
+ORD-2024-00919,2024-11-15,CUST-1174,Paul Taylor,Furniture,Tables,Conference Table 6ft,West,Portland,1,443.84,0.05,43.49
+ORD-2024-00920,2024-11-15,CUST-1137,Robert Williams,Furniture,Furnishings,LED Desk Lamp,West,San Diego,6,180.85,0.05,59.04
+ORD-2024-00921,2024-11-16,CUST-1086,John Jackson,Furniture,Furnishings,Wall Clock Classic,East,Washington,3,63.66,0.05,16.38
+ORD-2024-00922,2024-11-17,CUST-1079,Mary Garcia,Furniture,Chairs,Mesh Task Chair,West,Portland,3,391.23,0.0,77.27
+ORD-2024-00923,2024-11-17,CUST-1125,Elizabeth Rodriguez,Technology,Monitors,27-inch 4K Monitor,South,Orlando,1,347.85,0.05,44.24
+ORD-2024-00924,2024-11-18,CUST-1256,Carol Walker,Office Supplies,Art,Marker Set 24 Colors,East,New York,3,28.98,0.2,5.21
+ORD-2024-00925,2024-11-19,CUST-1136,Amanda Williams,Furniture,Tables,Standing Desk Adjustable,West,San Francisco,1,307.5,0.1,10.87
+ORD-2024-00926,2024-11-19,CUST-1250,James Young,Furniture,Chairs,Mesh Task Chair,Central,Houston,2,269.04,0.0,53.87
+ORD-2024-00927,2024-11-19,CUST-1059,Lisa Taylor,Furniture,Furnishings,Wall Clock Classic,West,San Francisco,7,154.48,0.0,48.89
+ORD-2024-00928,2024-11-21,CUST-1255,Karen Lopez,Office Supplies,Art,Marker Set 24 Colors,East,New York,1,5.7,0.5,0.18
+ORD-2024-00929,2024-11-21,CUST-1016,Nancy Martinez,Office Supplies,Storage,Stackable File Box,CENTRAL,Dallas,10,150.15,0.2,19.84
+ORD-2024-00930,2024-11-21,CUST-1158,Donna Moore,Technology,Phones,Smartphone X200,East,Washington,1,517.17,0.15,15.93
+ORD-2024-00931,2024-11-21,CUST-1127,Daniel Moore,Furniture,Tables,Standing Desk Adjustable,South,Nashville,1,306.56,0.1,23.89
+ORD-2024-00932,2024-11-22,CUST-1059,Lisa Taylor,Technology,Accessories,Wireless Mouse,West,San Francisco,4,79.64,0.2,12.38
+ORD-2024-00933,2024-11-23,CUST-1230,Betty Moore,Office Supplies,Paper,Premium Notebook Pack,East,New York,2,14.18,0.5,0.04
+ORD-2024-00934,2024-11-23,CUST-1181,Thomas Jackson,Furniture,Chairs,Mesh Task Chair,Central,Dallas,5,478.39,0.3,-36.87
+ORD-2024-00935,2024-11-24,CUST-1237,George Lee,Office Supplies,Labels,Shipping Labels 500ct,South,Miami,3,27.85,0.0,11.42
+ORD-2024-00936,2024-11-24,CUST-1247,Steven Clark,Technology,Accessories,USB-C Hub 7-in-1,West,Seattle,1,37.6,0.05,12.38
+ORD-2024-00937,2024-11-26,CUST-1103,Richard Martinez,Office Supplies,Paper,Premium Notebook Pack,East,Charlotte,2,21.94,,5.66
+ORD-2024-00938,2024-11-26,CUST-1032,Steven Brown,Furniture,Furnishings,Wall Clock Classic,East,New York,1,16.7,0.2,2.22
+ORD-2024-00939,2024-11-27,CUST-1003,Lisa King,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Minneapolis,5,21.82,0.3,2.99
+ORD-2024-00940,2024-11-27,CUST-1063,Elizabeth Lee,Office Supplies,Paper,Premium Notebook Pack,Central,Denver,1,8.44,0.4,0.72
+ORD-2024-00941,2024-11-28,CUST-1030,Kevin Johnson,Office Supplies,Labels,Shipping Labels 500ct,EAST,Philadelphia,2,18.29,0.0,8.32
+ORD-2022-00081,2022-05-29,CUST-1238,Melissa Jones,Furniture,Chairs,Ergonomic Office Chair,Central,Dallas,5,964.35,0.0,210.13
+ORD-2024-00943,2024-11-29,CUST-1174,Paul Taylor,Office Supplies,Binders,Heavy Duty Binder 3-Ring,West,Portland,2,11.34,0.1,3.71
+ORD-2024-00944,2024-11-30,CUST-1216,Elizabeth Garcia,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,3,503.29,0.1,77.56
+ORD-2024-00945,2024-11-30,CUST-1007,Daniel Miller,Office Supplies,Storage,Stackable File Box,West,Portland,2,35.89,0.0,11.33
+ORD-2024-00946,2024-11-30,CUST-1174,Paul Taylor,Technology,Monitors,27-inch 4K Monitor,West,Portland,1,360.92,0.05,45.09
+ORD-2024-00947,2024-11-30,CUST-1066,Joseph Martinez,Office Supplies,Labels,Shipping Labels 500ct,Central,Denver,5,36.22,0.2,9.54
+ORD-2022-00124,2022-08-01,CUST-1001,Patricia Clark,Technology,Monitors,27-inch 4K Monitor,West,Seattle,1,347.58,0.1,17.9
+ORD-2024-00949,2024-12-02,CUST-1121,Elizabeth Davis,Furniture,Chairs,Mesh Task Chair,East,Boston,2,174.87,0.3,-10.35
+ORD-2024-00950,2024-12-02,CUST-1058,Daniel Lewis,Technology,Phones,Wireless Earbuds Pro,West,San Francisco,3,282.47,0.2,39.61
+ORD-2024-00951,2024-12-02,CUST-1174,Paul Taylor,Office Supplies,Art,Marker Set 24 Colors,West,Portland,5,46.72,0.2,12.01
+ORD-2024-00952,2024-12-04,CUST-1121,Elizabeth Davis,Office Supplies,Paper,Premium Notebook Pack,East,Boston,3,39.91,0.05,14.03
+ORD-2024-00953,2024-12-06,CUST-1092,Betty Garcia,Office Supplies,Binders,Binder Dividers Set,Central,Denver,1,2.44,0.4,0.17
+ORD-2024-00954,2024-12-06,CUST-1138,Michael Brown,Office Supplies,Art,Marker Set 24 Colors,West,Los Angeles,1,11.17,0.1,2.54
+ORD-2024-00955,2024-12-07,CUST-1039,Ashley Martin,Office Supplies,Labels,Shipping Labels 500ct,West,Portland,3,20.68,,6.68
+ORD-2024-00956,2024-12-07,CUST-1198,Nancy Johnson,Office Supplies,Paper,A4 Copy Paper 500 sheets,East,New York,1,6.84,0.2,1.52
+ORD-2024-00957,2024-12-08,CUST-1246,John Allen,Office Supplies,Paper,Premium Notebook Pack,Central,Minneapolis,2,23.5,0.15,7.88
+ORD-2024-00958,2024-12-09,CUST-1094,James Lee,Furniture,Tables,Conference Table 6ft,Central,Dallas,2,812.39,0.1,-5.95
+ORD-2024-00959,2024-12-09,CUST-1155,Patricia Anderson,Furniture,Chairs,Mesh Task Chair,West,Portland,1,128.38,0.0,30.67
+ORD-2024-00960,2024-12-09,CUST-1165,James Smith,Furniture,Chairs,Mesh Task Chair,East,Charlotte,1,105.5,0.15,7.45
+ORD-2024-00961,2024-12-10,CUST-1097,Andrew Martin,Furniture,Chairs,Ergonomic Office Chair,Central,Houston,4,723.99,0.0,210.37
+ORD-2024-00962,2024-12-12,CUST-1171,Ashley Taylor,Technology,Monitors,27-inch 4K Monitor,Central,Houston,1,350.95,0.05,45.79
+ORD-2024-00963,2024-12-13,CUST-1245,Robert Lopez,Furniture,Furnishings,Wall Clock Classic,West,Seattle,1,21.16,0.0,6.55
+ORD-2024-00964,2024-12-14,CUST-1175,Matthew Johnson,Furniture,Chairs,Mesh Task Chair,West,Los Angeles,3,395.87,0.0,79.14
+ORD-2024-00965,2024-12-14,CUST-1048,Paul Lee,Office Supplies,Binders,Heavy Duty Binder 3-Ring,Central,Houston,1,5.91,0.1,1.86
+ORD-2024-00966,2024-12-16,CUST-1241,George Thomas,Furniture,Chairs,Mesh Task Chair,South,Nashville,2,253.13,0.0,50.95
+ORD-2024-00967,2024-12-16,CUST-1133,Matthew Young,Furniture,Chairs,Ergonomic Office Chair,East,Charlotte,3,525.68,0.05,77.22
+ORD-2024-00968,2024-12-16,CUST-1171,Ashley Taylor,Office Supplies,Paper,Premium Notebook Pack,West,San Francisco,6,86.01,0.0,33.87
+ORD-2024-00969,2024-12-17,CUST-1027,Anthony Moore,Office Supplies,Storage,Steel Filing Cabinet,South,New Orleans,2,236.22,0.1,16.47
+ORD-2024-00970,2024-12-17,CUST-1137,Robert Williams,Office Supplies,Storage,Stackable File Box,West,Los Angeles,6,114.26,0.0,31.26
+ORD-2024-00971,2024-12-17,CUST-1006,Sandra Wilson,Furniture,Chairs,Mesh Task Chair,West,Portland,3,341.4,0.1,34.44
+ORD-2024-00972,2024-12-17,CUST-1166,Mark King,Furniture,Chairs,Ergonomic Office Chair,East,Charlotte,3,574.06,0.0,119.7
+ORD-2024-00973,2024-12-18,CUST-1038,Karen Jones,Office Supplies,Binders,Binder Dividers Set, west ,San Francisco,2,7.22,0.15,2.15
+ORD-2024-00974,2024-12-18,CUST-1038,Karen Jones,Office Supplies,Storage,Stackable File Box,West,San Francisco,4,77.73,0.0,26.44
+ORD-2024-00975,2024-12-19,CUST-1221,Carol Hernandez,Technology,Phones,Wireless Earbuds Pro,South,Atlanta,3,287.15,0.2,39.15
+ORD-2024-00976,2024-12-20,CUST-1171,Ashley Taylor,Technology,Accessories,Mechanical Keyboard,Central,Houston,2,162.12,0.0,51.26
+ORD-2024-00977,2024-12-20,CUST-1138,Michael Brown,Office Supplies,Paper,Premium Notebook Pack,West,Seattle,4,54.83,0.0,25.31
+ORD-2024-00978,2024-12-20,CUST-1255,Karen Lopez,Office Supplies,Paper,Premium Notebook Pack,East,Boston,7,83.63,0.15,33.41
+ORD-2024-00979,2024-12-21,CUST-1112,Anthony Young,Furniture,Chairs,Ergonomic Office Chair,East,Boston,1,174.61,0.1,20.77
+ORD-2024-00980,2024-12-22,CUST-1189,Susan Wilson,Technology,Accessories,USB-C Hub 7-in-1,West,Los Angeles,4,148.84,0.0,45.97
+ORD-2024-00981,2024-12-22,CUST-1203,Thomas Lopez,Office Supplies,Binders,Binder Dividers Set,Central,Dallas,35,52.57,0.1,19.81
+ORD-2024-00982,2024-12-23,CUST-1041,Joseph Allen,Office Supplies,Art,Marker Set 24 Colors,West,Portland,5,55.7,0.05,20.46
+ORD-2024-00983,2024-12-23,CUST-1120,Daniel Clark,Furniture,Chairs,Mesh Task Chair,Central,Dallas,5,626.06,0.0,138.28
+ORD-2024-00984,2024-12-24,CUST-1102,Betty Hernandez,Technology,Accessories,USB-C Hub 7-in-1,Central,Chicago,4,149.29,0.0,45.64
+ORD-2024-00985,2024-12-25,CUST-1251,Lisa Smith,Office Supplies,Art,Marker Set 24 Colors,West,Portland,5,58.51,0.0,22.44
+ORD-2024-00986,2024-12-25,CUST-1035,John Williams,Furniture,Furnishings,Wall Clock Classic,Central,Minneapolis,4,86.88,0.0,31.97
+ORD-2024-00987,2024-12-26,CUST-1248,Emily Lopez,Furniture,Chairs,Ergonomic Office Chair,East,Charlotte,1,198.87,0.0,35.2
+ORD-2024-00988,2024-12-26,CUST-1115,Ashley Williams,Furniture,Chairs,Mesh Task Chair,South,New Orleans,4,499.93,0.0,102.52
+ORD-2024-00989,2024-12-27,CUST-1109,Melissa Taylor,Office Supplies,Paper,A4 Copy Paper 500 sheets,South,Orlando,1,9.16,0.0,4.06
+ORD-2024-00990,2024-12-27,CUST-1038,Karen Jones,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,San Francisco,6,741.37,0.2,-28.73
+ORD-2024-00991,2024-12-27,CUST-1222,Nancy Taylor,Furniture,Furnishings,Wall Clock Classic,South,Orlando,1,20.97,0.05,5.39
+ORD-2024-00992,2024-12-27,CUST-1185,Amanda Rodriguez,Furniture,Chairs,Ergonomic Office Chair,South,Miami,2,327.74,0.1,62.2
+ORD-2024-00993,2024-12-28,CUST-1161,Mark Williams,Furniture,Tables,Conference Table 6ft,CENTRAL,Dallas,2,869.52,0.0,129.28
+ORD-2024-00994,2024-12-28,CUST-1165,James Smith,Furniture,Chairs,Mesh Task Chair,East,Charlotte,2,254.88,0.0,46.58
+ORD-2024-00995,2024-12-28,CUST-1204,Mark Thompson,Technology,Phones,Wireless Earbuds Pro,West,Los Angeles,6,569.85,0.2,54.06
+ORD-2024-00996,2024-12-29,CUST-1006,Sandra Wilson,Furniture,Bookcases,Wooden Bookcase 5-Shelf,West,Portland,2,252.72,0.2,-3.85
+ORD-2024-00997,2024-12-31,CUST-1226,Sarah King,Furniture,Tables,Conference Table 6ft,Central,Denver,1,418.52,0.05,24.07
+ORD-2024-00998,2024-12-31,CUST-1025,Karen Thompson,Office Supplies,Storage,Stackable File Box,West,Portland,4,63.7,0.15,12.13
+ORD-2024-00999,2024-12-31,CUST-1038,Karen Jones,Furniture,Chairs,Ergonomic Office Chair,West,San Francisco,4,592.42,0.2,27.12
+ORD-2024-01000,2024-12-31,CUST-1135,Karen Clark,Furniture,Tables,Conference Table 6ft,Central,Denver,1,445.52,0.0,16.6
